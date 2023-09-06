@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Page not found</title>
+  <script type="text/javascript">
+    const ROUTE_MAP = [
+      { from: /^\/devtools\/(\w+)\/.*/, to: '/devtools/$1' },
+    ];
+    function matchRedirect() {
+      for (const { from, to } of ROUTE_MAP) {
+        if (!location.pathname.match(from)) continue;
+
+        const finalUrl = new URL(window.location.href);
+        finalUrl.pathname = finalUrl.pathname.replace(from, to);
+        const finalPathname = finalUrl.pathname;
+
+        finalUrl.search = finalUrl.hash = '';
+        const restUrl = location.href.replace(finalUrl.href, '');
+
+        return { final: finalPathname, rest: restUrl }
+      }
+      return null;
+    }
+    const redirect = matchRedirect();
+    if (redirect) {
+      sessionStorage.setItem('github-page-route-redirect', JSON.stringify(redirect));
+      window.location.pathname = redirect.final;
+    }
+  </script>
+</head>
+
+<body>
+  404
+</body>
+
+</html>
