@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "urlPath": "/devtools",
+      "entryName": "devtools",
+      "entryPath": "html/devtools/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false
+    }
+  ]
+}
