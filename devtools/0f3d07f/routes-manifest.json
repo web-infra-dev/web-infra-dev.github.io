@@ -1,0 +1,221 @@
+{
+  "routeAssets": {
+    "config/builder/resolved/page": {
+      "chunkIds": [
+        "vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c",
+        "config/builder/resolved/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.1ce5d28c.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/config/builder/resolved/page.e6f49430.js"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css"
+      ]
+    },
+    "config/builder/transformed/page": {
+      "chunkIds": [
+        "vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c",
+        "config/builder/transformed/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.1ce5d28c.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/config/builder/transformed/page.89bcc092.js"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css"
+      ]
+    },
+    "config/bundler/resolved/page": {
+      "chunkIds": [
+        "vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c",
+        "config/bundler/resolved/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.1ce5d28c.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/config/bundler/resolved/page.ba8f5caa.js"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css"
+      ]
+    },
+    "config/bundler/transformed/page": {
+      "chunkIds": [
+        "vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c",
+        "config/bundler/transformed/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.1ce5d28c.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/config/bundler/transformed/page.9a22b92d.js"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css"
+      ]
+    },
+    "config/framework/resolved/page": {
+      "chunkIds": [
+        "vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c",
+        "config/framework/resolved/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.1ce5d28c.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/config/framework/resolved/page.f8ed761c.js"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css"
+      ]
+    },
+    "config/framework/transformed/page": {
+      "chunkIds": [
+        "vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c",
+        "config/framework/transformed/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.1ce5d28c.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/config/framework/transformed/page.b11355c7.js"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css"
+      ]
+    },
+    "config/layout": {
+      "chunkIds": [
+        "config/layout"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/config/layout.c988e6cc.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "config/page": {
+      "chunkIds": [
+        "config/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/config/page.6183831d.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "context/builder/page": {
+      "chunkIds": [
+        "vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c",
+        "context/builder/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.1ce5d28c.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/context/builder/page.6ae8c56a.js"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css"
+      ]
+    },
+    "context/framework/page": {
+      "chunkIds": [
+        "vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c",
+        "context/framework/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.1ce5d28c.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/context/framework/page.14d7c73e.js"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css"
+      ]
+    },
+    "context/layout": {
+      "chunkIds": [
+        "context/layout"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/context/layout.69e165a7.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "context/page": {
+      "chunkIds": [
+        "context/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/context/page.d7bb42e1.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "main": {
+      "chunkIds": [
+        "builder-runtime",
+        "lib-react",
+        "lib-router",
+        "lib-polyfill",
+        "lib-lodash",
+        "vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c",
+        "main"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/lib-react.539bada3.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/lib-router.a49a7033.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/lib-polyfill.8582f0a6.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/lib-lodash.d4590abd.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.1ce5d28c.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/main.d91965b3.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/main.b1e7e1c0.css"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/main.b1e7e1c0.css"
+      ]
+    },
+    "overview/page": {
+      "chunkIds": [
+        "overview/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/overview/page.f6c83404.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/async/overview/page.752ab5d8.css"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/async/overview/page.752ab5d8.css"
+      ]
+    },
+    "page": {
+      "chunkIds": [
+        "page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/page.3a64325e.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "pages/layout": {
+      "chunkIds": [
+        "pages/layout"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/pages/layout.45470473.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "pages/page": {
+      "chunkIds": [
+        "vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c",
+        "pages/page"
+      ],
+      "assets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.1ce5d28c.js",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css",
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/js/async/pages/page.72318cf4.js"
+      ],
+      "referenceCssAssets": [
+        "https://web-infra-dev.github.io/devtools/0f3d07f/static/css/vendors~node_modules_pnpm_emotion_styled_11_11_0__emotion_react_11_11_1__types_react_18_0_21_~eae13c.ec85ede9.css"
+      ]
+    }
+  }
+}

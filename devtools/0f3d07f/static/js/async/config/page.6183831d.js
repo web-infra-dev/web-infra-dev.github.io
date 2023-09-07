@@ -1,0 +1,1 @@
+(self.webpackChunk_modern_js_devtools_client=self.webpackChunk_modern_js_devtools_client||[]).push([["config/page"],{29605:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return l}});var l=null}}]);
