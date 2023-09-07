@@ -9,19 +9,24 @@
       { from: /^\/devtools\/(\w+)\/.*/, to: '/devtools/$1' },
     ];
     function matchRedirect() {
-      const url = new URL(window.location.href);
       for (const { from, to } of ROUTE_MAP) {
-        if (!url.pathname.match(from)) continue;
-        const finalPath = url.pathname.replace(from, to);
-        const restPath = url.pathname.replace(finalPath, '');
-        return { final: finalPath, rest: restPath }
+        if (!location.pathname.match(from)) continue;
+
+        const finalUrl = new URL(window.location.href);
+        finalUrl.pathname = finalUrl.pathname.replace(from, to);
+        const finalPathname = finalUrl.pathname;
+
+        finalUrl.search = finalUrl.hash = '';
+        const restUrl = location.href.replace(finalUrl.href, '');
+
+        return { final: finalPathname, rest: restUrl }
       }
       return null;
     }
     const redirect = matchRedirect();
     if (redirect) {
       sessionStorage.setItem('github-page-route-redirect', JSON.stringify(redirect));
-      window.location.href = redirect.final;
+      window.location.pathname = redirect.final;
     }
   </script>
 </head>
