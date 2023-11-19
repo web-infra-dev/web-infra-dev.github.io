@@ -1,0 +1,1 @@
+(self.webpackChunk_modern_js_module_tools_docs=self.webpackChunk_modern_js_module_tools_docs||[]).push([["main"],{6020:function(o,e,l){"use strict";l.r(e),l.d(e,{default:function(){return n.default}});var n=l("72024");l.es(n,e)}},function(o){o.O(0,["2178","lib-lodash","lib-polyfill","lib-react","lib-router"],function(){var e;return e="30914",o(o.s=e)}),o.O()}]);
