@@ -1,0 +1,25 @@
+/*! @zh/shared/onAfterStartDevServer.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @zh/shared/bundlerChain.md */
+
+/*! @zh/shared/onBeforeCreateCompiler.md */
+
+/*! @zh/shared/onExit.md */
+
+/*! @zh/shared/onDevCompileDone.md */
+
+/*! @zh/shared/onBeforeBuild.md */
+
+/*! @zh/shared/onAfterBuild.md */
+
+/*! react/jsx-runtime */
+
+/*! @zh/shared/onBeforeStartDevServer.md */
+
+/*! @zh/shared/onAfterCreateCompiler.md */
+
+/*! react/jsx-runtime */
