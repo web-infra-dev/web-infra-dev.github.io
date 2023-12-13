@@ -1,0 +1,15 @@
+/*! @site-docs-en/components/enable-micro-frontend */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @site-docs-en/components/micro-runtime-config */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */

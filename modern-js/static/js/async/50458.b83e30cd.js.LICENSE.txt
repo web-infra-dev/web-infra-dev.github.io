@@ -1,0 +1,15 @@
+/*! @modern-js/builder-doc/docs/zh/shared/enableSwc.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/builder-doc/docs/zh/shared/swc.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */

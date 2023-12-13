@@ -1,0 +1,9 @@
+/*! react/jsx-runtime */
+
+/*! @modern-js/builder-doc/docs/zh/config/output/polyfill.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */

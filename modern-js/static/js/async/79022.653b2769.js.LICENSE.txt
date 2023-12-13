@@ -1,0 +1,9 @@
+/*! @modern-js/builder-doc/docs/en/config/dev/beforeStartUrl.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
