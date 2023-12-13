@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! @en/shared/alias.md */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
