@@ -1,12 +1,18 @@
+/*! @mdx-js/react */
+
 /*! @zh/config/tools/cssExtract.md */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
 /*! @zh/config/tools/autoprefixer.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
@@ -18,9 +24,13 @@
 
 /*! @zh/config/tools/rspack.md */
 
+/*! @mdx-js/react */
+
 /*! react/jsx-runtime */
 
 /*! @mdx-js/react */
+
+/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
 
@@ -32,7 +42,7 @@
 
 /*! @mdx-js/react */
 
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
@@ -46,6 +56,16 @@
 
 /*! react/jsx-runtime */
 
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
 /*! react/jsx-runtime */
 
 /*! @mdx-js/react */
@@ -53,34 +73,20 @@
 /*! @mdx-js/react */
 
 /*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
 /*! @zh/config/tools/styledComponents.md */
 
-/*! react/jsx-runtime */
-
 /*! @zh/config/tools/sass.md */
-
-/*! @mdx-js/react */
 
 /*! @zh/config/tools/babel.md */
 
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
 /*! @mdx-js/react */
-
-/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
@@ -90,9 +96,9 @@
 
 /*! @zh/config/tools/pug.md */
 
-/*! @zh/config/tools/devServer.md */
+/*! @mdx-js/react */
 
-/*! react/jsx-runtime */
+/*! @zh/config/tools/devServer.md */
 
 /*! @zh/config/tools/webpack.md */
 
@@ -100,15 +106,9 @@
 
 /*! @zh/config/tools/inspector.md */
 
-/*! @mdx-js/react */
-
 /*! @zh/config/tools/styleLoader.md */
 
 /*! @zh/config/tools/bundlerChain.mdx */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
@@ -124,6 +124,6 @@
 
 /*! @zh/config/tools/htmlPlugin.md */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
