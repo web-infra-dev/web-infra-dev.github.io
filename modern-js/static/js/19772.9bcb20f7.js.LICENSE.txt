@@ -1,0 +1,2886 @@
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/assets-retry.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/index.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c01-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/global-vars.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/model_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/type.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/monorepo/publish.mdx */
+
+/*! ./checkForListedLanguage */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/manage-effects.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/api/context.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/troubleshooting/hmr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/get-started/quick-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/api/input.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/convert-to-rem.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c07-container.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/builder-plugins.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/create/option.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/css-module-local-ident-name.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/Provider.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/experiments/lazy-compilation.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/script-loading.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/api/context.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/inspector.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/css-modules.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/inject.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/server/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/release-pre.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/mount-id.mdx */
+
+/*! core-js/modules/web.url-search-params.delete.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/handle-effect.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/alias-strategy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/server/index_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/asset-prefix.mdx */
+
+/*! ./lib/util/defined-info */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/api/app.mdx */
+
+/*! ./factory */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/auto-actions.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-inline-route-manifests.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/using-storybook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/changelog.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/bff/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/port.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/testing/renderApp.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/model-communicate.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/ssg.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/alias.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/create-store.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/connect.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/frameworks.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/extend.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/utility/loadable.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/blog/overview.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/lifecycle.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/implement.mdx */
+
+/*! ./lib/html */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/optimize-bundle.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-inline-styles.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/preload.mdx */
+
+/*! refractor/lang/scss.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-asset-fallback.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/jest.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/troubleshooting/cli.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/data-uri-limit.mdx */
+
+/*! @babel/runtime/helpers/defineProperty */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/pug.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/tags.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/use-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/ts-checker.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/data/data-write.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/meta.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/get-started/glossary.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/api/onForged.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/use-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/svg-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/monorepo/commands/deploy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/api/api.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/faq.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/router/router.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/github.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/mount-id.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/quick-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/start-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/extend.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/html.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/pages.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/utility/css-in-js.mdx */
+
+/*! is-alphabetical */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/concept/entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/favicon.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/resolve-extension-prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/quick-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/bundler-chain.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/code-split.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/output-files.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/lifecycle.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/modern-config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/ts-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/transform-import.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/use.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/sass.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-node-polyfill.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/html.mdx */
+
+/*! property-information/find */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/experiments/source-build.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/chunk-split.mdx */
+
+/*! ./schema */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/rspack-start.mdx */
+
+/*! ./create-element */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/css-extract.mdx */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/markdown */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/core/use-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/temp-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/micro-frontend/c03-main-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/alias.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/runtime/master-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/get-started/quick-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/externals.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/override-browserslist.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/api/afterForged.md */
+
+/*! comma-separated-tokens */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/use-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/jest.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/transform-lodash.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/relationship.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/favicon-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/module-scopes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/compatibility.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/config-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/remove-console.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/commands.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/utility/css-in-js.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/utility/css-in-js.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/port.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/test.mdx */
+
+/*! ./schema */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/bff-proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/global-vars.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/micro-frontend/c05-mixed-stack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/index.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/temp-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/terser.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/handle-effect.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/enable-async-entry.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/ssg.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/css-module-local-ident-name.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/troubleshooting/builder.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/examples/csr-auth.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/minify-css.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/optimize-bundle.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/create-store.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/bundler-chain.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/micro-frontend/c04-communicate.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/compile-js-data-uri.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/public-routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-inline-styles.mdx */
+
+/*! htmr */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/asset-prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c05-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/html-plugin.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/plugins.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/legal-comments.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/monorepo/sub-project-interface.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/use-static-model.mdx */
+
+/*! ./highlight */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/exclude.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/sass.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/concept/builder.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/connect.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/app-icon.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/troubleshooting/builder.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/create/config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/foundations/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/community/blog/overview.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/community/showcase.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-svgr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c03-css.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/resolve-extension-prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/concept/entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/dist-path.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/chunk-split.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/data/data-write.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/experiments/lazy-compilation.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/resolve-extension-prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/lifecycle.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/create/option.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/preload.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/index_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/utility/head.mdx */
+
+/*! ./typescript.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/inject.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/resolve-main-fields.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/enable-framework-ext.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/ssr/pre-render.mdx */
+
+/*! virtual-prism-languages */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/alias-strategy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/new/config.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/env-vars.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/rspack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/entries-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/https.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/implement.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/transform-lodash.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c06-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/runtime/master-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/override-browserslist.mdx */
+
+/*! shallowequal */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/ts-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/implement.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/monorepo/intro.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/print-file-size.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/use-local-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-minimize.mdx */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/javascript */
+
+/*! react/jsx-runtime */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/static-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/stories.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/use-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/define-model.mdx */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/troubleshooting/hmr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/concept/entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/ts-checker.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-latest-decorators.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-css-module-tsdeclaration.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/favicon.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-source-map.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/splitRouteChunks.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/favicon-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/index.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/css-modules.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/bff/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/remove-moment-locale.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/changelog.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/testing/transformer.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/security/check-syntax.mdx */
+
+/*! @rspress/shared */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/hook-list.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/inspector.mdx */
+
+/*! ./lang/css */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/modern-config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/define.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/wasm-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/structure.md */
+
+/*! prop-types */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/frameworks.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/quick-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/start-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/use.md */
+
+/*! ./factoryWithThrowingShims */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/micro-frontend/c02-development.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c01-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/meta.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/enable-framework-ext.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/low-level.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/include.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/wasm-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/get-started/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/faq.mdx */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/yaml */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/github.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/webpack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/rspack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/create/use.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/plugin-api.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/minify-css.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/chunk-split.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/runtime/intro.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/css-extract.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/css.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/exclude.mdx */
+
+/*! refractor/lang/typescript.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/web-server/middleware.mdx */
+
+/*! @theme */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/less.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/output-files.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/core/use-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-asset-fallback.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/api/context.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/experiments/source-build.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/upload.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/concept/builder.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/exclude.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/html.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/relationship.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/output-files.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/api/afterForged.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/typescript-best-practice.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/terser.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-css-extract.mdx */
+
+/*! ./util/types */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/new/use.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/ssg.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/new/option.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/commit.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/pre-entry.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/extend.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/bff/prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/web-server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-node-polyfill.mdx */
+
+/*! ./util/create */
+
+/*! refractor/lang/bash.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/get-started/upgrade.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/auto-actions.mdx */
+
+/*! parse-entities */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/template-parameters-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/testing/render.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-css-extract.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/tailwindcss.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/mock.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/rspack-start.mdx */
+
+/*! invariant */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/convert-to-rem.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/before-start-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-ts-checker.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/auto-load-plugin.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/runtime/state.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/structure.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/plugin-api.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/eslint.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/dns-prefetch.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/copy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/asset-prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/bff/prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/template-by-entries.mdx */
+
+/*! virtual-site-data */
+
+/*! medium-zoom 1.0.8 | MIT License | https://github.com/francoischalifour/medium-zoom */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/utility/css-in-js.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-css-module-tsdeclaration.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/extend.mdx */
+
+/*! ./bundle */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/assets-retry.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/mock.mdx */
+
+/*! @rspress/shared */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/release-note.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/testing/render.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/host.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/charset.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/api/input.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/include.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/meta-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/polyfill.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/disable-entry-dirs.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c05-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c06-model.mdx */
+
+/*! react-router-dom */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/diff */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-filename-hash.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/svg-default-export.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-latest-decorators.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/use-out-of-modernjs.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/builder-plugins.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/ts-checker.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/Provider.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/svg-default-export.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/pug.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/wasm-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-node-polyfill.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/testing/cleanup.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/github.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/autoprefixer.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/connect.mdx */
+
+/*! virtual-site-data */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/dns-prefetch.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-css-extract.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/clean-dist-path.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/api/lambda.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/hmr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/runtime/intro.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/get-started/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/mock.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/core/use-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/prefetch.mdx */
+
+/*! refractor/lang/less.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/pug.mdx */
+
+/*! core-js/modules/esnext.iterator.find.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/new/option.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/webpack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/new/config.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/favicon-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/less.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/core/create-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/create-app.mdx */
+
+/*! @rspress/shared */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/css-extract.mdx */
+
+/*! core-js/modules/esnext.async-iterator.map.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/css-module-local-ident-name.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-asset-fallback.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/contributing-guide.mdx */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c04-routes.mdx */
+
+/*! html-tags */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/core/bootstrap.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/use-out-of-modernjs.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/get-started/glossary.mdx */
+
+/*! virtual-site-data */
+
+/*! is-decimal */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/tags-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/app/define-config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/rspack-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/testing.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/monorepo/publish.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/releases.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/web-server/middleware.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/model_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/category.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/runtime/state.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/new/use.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/add.mdx */
+
+/*! virtual-routes */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/function.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/ssr-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/splitRouteChunks.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/release-note.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/bff/enable-handle-web.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/computed-state.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/testing/act.mdx */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/xml-doc */
+
+/*! ./lib/xmlns */
+
+/*! lodash-es */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/monorepo/commands/deploy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/runtime/router.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/dev-server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-ts-checker.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-css-module-tsdeclaration.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/config-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/title-by-entries.mdx */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/community/releases.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/builder-plugins.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/esbuild.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/micro-frontend/c03-main-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/icon.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/tailwindcss.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/introduce.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/testing/renderApp.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/data/data-fetch.mdx */
+
+/*! virtual-site-data */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/new/use.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/core/use-runtime-context.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/template.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/server/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/include.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c08-entries.mdx */
+
+/*! refractor/lang/markdown.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/build-performance.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/hmr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/babel.mdx */
+
+/*! react-router-dom */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/config-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/api/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/title.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/type.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/auto-actions.mdx */
+
+/*! property-information/html */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/micro-frontend/c05-mixed-stack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/troubleshooting/builder.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/global-vars.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/postcss.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-css-module-extension.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/usage.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/public.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/auto-load-plugin.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/style-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/faq.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/performance.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/override-browserslist.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/get-started/tech-stack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/html-plugin.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/storybook.mdx */
+
+/*! @babel/runtime/helpers/defineProperty */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/api/app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/enable-async-entry.mdx */
+
+/*! ./lib/ReactPropTypesSecret */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/model-communicate.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/json-files.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/asset-prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/bff/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/assets-retry.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/micro-frontend/c03-main-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c05-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/examples/csr-auth.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/webpack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/relationship.mdx */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/api/api.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/jest.mdx */
+
+/*! react/jsx-runtime */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/define-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/optimize-bundle.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/crossorigin.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/ssr-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/introduce.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/bff-proxy.mdx */
+
+/*! @rspress/runtime */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/before-start-url.mdx */
+
+/*! react-fast-compare */
+
+/*! character-entities-legacy */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/Provider.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/use-local-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/css-modules.mdx */
+
+/*! ./App */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-asset-manifest.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/function.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/api/afterForged.md */
+
+/*! react-dom */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/typescript */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/runtime/router.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/filename.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/core/create-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/code-split.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/inject-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/testing/cleanup.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/source-build.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/testing/act.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/testing/transformer.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-inline-runtime-chunk.mdx */
+
+/*! ./prism-light */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/preconnect.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/print-file-size.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/define.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-filename-hash.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/data/data-fetch.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/runtime/router.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/test-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/micro-frontend/c01-introduction.mdx */
+
+/*! flexsearch */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-filename-hash.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/entries-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/api/lambda.mdx */
+
+/**
+ * Prism: Lightweight, robust, elegant syntax highlighting
+ *
+ * @license MIT <https://opensource.org/licenses/MIT>
+ * @author Lea Verou <https://lea.verou.me>
+ * @namespace
+ * @public
+ */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/alias.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/team.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/release-pre.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/template-by-entries.mdx */
+
+/*! @theme */
+
+/*! is-decimal */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/enable-framework-ext.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/handle-effect.mdx */
+
+/*! react-helmet-async */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/experiments/source-build.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/config.mdx */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/less */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/test-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/transform-import.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/security/nonce.mdx */
+
+/*! core-js/modules/web.url-search-params.size.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/pages.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/start-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/testing/cleanup.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/template-parameters.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/server/index_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/title-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/web-server/middleware.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/source-build.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/compatibility.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/showcase.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/svg-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/bff/prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/public.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/test-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/new/use.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c05-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/context.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/lifecycle.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/autoprefixer.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/structure.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/bundle-analyze.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/api/onForged.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/data/data-fetch.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/upload.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/blog/v2-release-note.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/swc.mdx */
+
+/*! ./utils */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/style-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/disable-entry-dirs.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/crossorigin.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/type.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/profile.mdx */
+
+/*! ./normalize */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/use-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/web-server/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/asset-prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/splitRouteChunks.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-inline-route-manifests.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/stories.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/commands.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/use-store.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/inspector.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/add.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/remove-console.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/tags-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/create/use.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/mock.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/temp-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/meta.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/community/team.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/meta-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/core/use-runtime-context.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/inspector.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/host.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c07-container.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/concept/builder.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/router/router.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/rspack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/mainEntryName.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/data-uri-limit.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/template.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/inject-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/auto-actions.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/new/option.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/port.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/ssr/pre-render.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/releases.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/asset-prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/app/define-config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/deploy/microFrontend.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/sdk.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/security/nonce.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/computed-state.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-inline-scripts.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/index_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/mock.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c03-css.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/swc.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/server/index_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/html.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/title.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/ssr-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/alias.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/core/bootstrap.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c04-routes.mdx */
+
+/*! react */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/scss */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/title.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/use-store.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/usage.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/testing/act.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/copy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/output-files.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/create-store.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/svg-assets.mdx */
+
+/*! ./lang/markup */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/public.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/core/use-module-apps.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/performance.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/bundle-analyze.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/icon.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/bff/prefix.mdx */
+
+/*! refractor/lang/tsx.js */
+
+/*! @babel/runtime/helpers/objectWithoutProperties */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/testing/render.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/disable-default-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/bff/use-context.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/template.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/community/releases.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/clean-dist-path.mdx */
+
+/*! refractor/core */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/pre-entry.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/define-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/web-server/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/core/bootstrap.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/using-storybook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/source-build.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/start-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/api/app.mdx */
+
+/*! ./decode-entity */
+
+/*! space-separated-tokens */
+
+/*! ./lib/index.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/autoprefixer.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/test-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/use-out-of-modernjs.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/index.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/webpack-chain.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/api/input.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/handle-effect.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/typescript-best-practice.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/base-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/troubleshooting/hmr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/web-server/hook.mdx */
+
+/*! ./util/case-insensitive-transform */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/build-performance.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/connect.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/use-static-model.mdx */
+
+/*! refractor/lang/json.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/preload.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/use.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/add.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/config-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/enable-async-entry.mdx */
+
+/*! ./html */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/styled-components.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/meta-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/remove-moment-locale.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/upload.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/swc.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/profile.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/temp-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/babel.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/create/config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/blog/2022-0708-updates.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/get-started/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-latest-decorators.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/micro-frontend/c02-development.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/get-started/quick-start.mdx */
+
+/*! virtual-global-components */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/release-note.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/hook-list.mdx */
+
+/*! toggle-selection */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/compile-js-data-uri.mdx */
+
+/*! ./lang/javascript */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/crossorigin.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/preconnect.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/index.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/micro-frontend/c04-communicate.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/runtime/master-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/externals.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/base-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/legal-comments.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/webpack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/styled-components.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/tags.mdx */
+
+/*! is-alphanumerical */
+
+/*! hast-util-parse-selector */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/css */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/utility/loadable.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/deploy/microFrontend.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/create-store.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-asset-manifest.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/usage.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/title-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/redux-integration.mdx */
+
+/*! ./hooks */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/mainEntryName.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/api/api.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/blog/2022-0708-updates.md */
+
+/*! core-js/modules/web.url-search-params.has.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/dist-path.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/public.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/api/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/performance.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/svg-default-export.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/pre-entry.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/inject-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/performance.mdx */
+
+/*! is-html */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/html-plugin.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/preload.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/crossorigin.mdx */
+
+/*! ./MediumZoom.css */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/manage-effects.mdx */
+
+/*! react-syntax-highlighter */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/progress-bar.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/sass.mdx */
+
+/*! ./jsx.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c02-component.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/bff/enable-handle-web.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/json-files.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/disable-html-folder.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/env-vars.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/foundations/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/use-static-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/stories.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/experiments/lazy-compilation.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/swc.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/template-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/esbuild.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/data-uri-limit.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/introduction.mdx */
+
+/*! @mdx-js/react */
+
+/*! ./info */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/ssr-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/sdk.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/inline-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/pages.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/use-out-of-modernjs.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/exclude.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/compatibility.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/usage.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/html.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/disable-html-folder.mdx */
+
+/*! refractor/lang/yaml.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/web-server/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/script-loading.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/auto-load-plugin.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/base-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/tags.mdx */
+
+/*! react-helmet-async */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/Provider.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-minimize.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/convert-to-rem.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/dist-path.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/ssg.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/storybook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/monorepo/intro.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/plugin-api.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/use-static-model.mdx */
+
+/*! react-helmet-async */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/release.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/pug.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/styled-components.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/index.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/ssr/no-ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/mount-id.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/copy.mdx */
+
+/*! ./utils */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/shared.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c06-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/troubleshooting/cli.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/data/data-write.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/core/use-module-apps.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-source-map.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/legal-comments.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/css-modules.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/remove-moment-locale.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/ssg.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/micro-frontend/c04-communicate.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/template-parameters-by-entries.mdx */
+
+/*! virtual-routes */
+
+/*! react-dom/client */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/commands.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/context.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/prefetch.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c03-css.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/alias.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/wasm-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/api/context.md */
+
+/*! @babel/runtime/helpers/extends */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/community/blog/overview.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/json-files.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c02-component.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/create-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/utility/head.mdx */
+
+/*! @rspress/theme-default */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-inline-styles.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/blog/v2-release-note.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/frameworks.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/html-plugin.mdx */
+
+/*! @rspress/runtime */
+
+/*! ./lib/xlink */
+
+/*! ./types */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/polyfill.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/examples/csr-auth.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/tags-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-minimize.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/api/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/transform-lodash.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/asset-prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/blog/overview.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/security/check-syntax.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/terser.mdx */
+
+/*! ./util/create */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/frameworks.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/app-icon.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/css.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/jest.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/css.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/webpack-chain.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/testing/transformer.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/data-uri-limit.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c04-routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/testing/render.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/ssr/no-ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/troubleshooting/dependencies.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/release.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/changelog.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/svg-default-export.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/mainEntryName.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/release.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/plugins.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/create/use.mdx */
+
+/*! nprogress */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-inline-scripts.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/testing/act.mdx */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/styled-components.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/host.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/monorepo/create-sub-project.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-minimize.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-css-extract.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/hmr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/inject.mdx */
+
+/*! nprogress/nprogress.css */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/api/app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/model-communicate.mdx */
+
+/*! virtual-search-index-hash */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/less.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/testing/transformer.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/svg-assets.mdx */
+
+/*! ./lib/xml */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/build-cache.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/bundler-chain.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/bff/enable-handle-web.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/api/lambda.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/inline-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/app/define-config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/micro-frontend/c05-mixed-stack.mdx */
+
+/*! body-scroll-lock */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/index_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/resolve-main-fields.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/use-local-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/relationship.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/static-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/ssr/no-ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/entries-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/community/contributing-guide.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/runtime/router.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/get-started/upgrade.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/pre-entry.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-css-module-tsdeclaration.mdx */
+
+/*! ./util/case-insensitive-transform */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/low-level.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/ssg.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/foundations/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/shared.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-svgr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/compatibility.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/enable-framework-ext.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/postcss.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/progress-bar.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-node-polyfill.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/ssg.mdx */
+
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/module-scopes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/before-start-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/port.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/commit.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/showcase.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/github.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/webpack-chain.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-inline-route-manifests.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/define.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/testing/renderApp.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/use-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/bff-proxy.mdx */
+
+/*! refractor/lang/css.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/security/sri.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/create-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/disable-entry-dirs.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/template.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/transform-lodash.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/print-file-size.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/micro-frontend/c01-introduction.mdx */
+
+/*! ./NoSSR */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/bash */
+
+/*! ./lib/aria */
+
+/*! core-js/modules/esnext.async-iterator.find.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/favicon.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/security/sri.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/rspack-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/computed-state.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/module-scopes.mdx */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/category.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/bff/use-context.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/splitRouteChunks.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/redux-integration.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/faq.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/progress-bar.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/utility/loadable.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/mock.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/meta-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/static-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/clean-dist-path.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/template-parameters-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/create/config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/plugin-api.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/alias.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c02-component.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c04-routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/tailwindcss.mdx */
+
+/*! ./lib/util/info */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/security/sri.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/remove-console.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/plugins.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/low-level.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/use-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/terser.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/sass.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c07-container.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/dev-server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/compile-js-data-uri.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/index.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/css-module-local-ident-name.mdx */
+
+/*! Bundled license information:
+
+lodash-es/lodash.js:
+  (**
+   * @license
+   * Lodash (Custom Build) <https://lodash.com/>
+   * Build: `lodash modularize exports="es" -o ./`
+   * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+   * Released under MIT license <https://lodash.com/license>
+   * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+   * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+   *)
+*/
+
+/*! ./util/types */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/webpack-chain.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/resolve-extension-prefix.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/storybook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/app-icon.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/create-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/new/config.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-latest-decorators.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/tags.mdx */
+
+/*! ./util/create */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/build-cache.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/get-started/glossary.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/introduce.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/troubleshooting/dependencies.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/utility/loadable.mdx */
+
+/*! react/jsx-runtime */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/get-started/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/experiments/lazy-compilation.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/resolve-main-fields.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/type.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/filename.mdx */
+
+/*! xtend */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/web-server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-svgr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/https.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/module-scopes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/concept/entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/use-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/code-split.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-svgr.mdx */
+
+/*! @rspress/runtime */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/app/define-config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/prefetch.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/inline-assets.mdx */
+
+/*! ./defined-info */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/ssg.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/get-started/tech-stack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/api/api.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/function.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/css.mdx */
+
+/*! ../../normalize */
+
+/*! ./html-tags.json */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/disable-default-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/quick-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/ts-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/disable-html-folder.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c07-container.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/micro-frontend/c03-main-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/team.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/router/router.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/community/team.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/get-started/upgrade.mdx */
+
+/*! @rspress/core/runtime */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/pages.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-ts-checker.mdx */
+
+/*! react-dom */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/dev-server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/deploy/microFrontend.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/css-loader.mdx */
+
+/*! ./case-sensitive-transform */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/commands.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/static-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-asset-fallback.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/core/create-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-css-module-extension.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/babel.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/mock.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/runtime/intro.mdx */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/script-loading.mdx */
+
+/*! react-lazy-with-preload */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/bff/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/auto-actions.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/charset.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-css-module-extension.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/override-browserslist.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/port.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/css-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/html.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/template-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/introduce.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/template-parameters-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/enable-async-entry.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/ssr/pre-render.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/blog/2022-0910-updates.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/security/check-syntax.mdx */
+
+/*! @rspress/runtime */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/minify-css.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/disable-default-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/index.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/core/use-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/modern-config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/testing/cleanup.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/postcss.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/html.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-inline-styles.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/troubleshooting/dependencies.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/alias-strategy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/clean-dist-path.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/tags-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-css-module-extension.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/auto-actions.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/public-routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/bff/use-context.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/hook-list.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/deploy/microFrontend.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/build-cache.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/tailwindcss.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/testing.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/model-communicate.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/define-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/redux-integration.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/node_modules/.pnpm/@rspress+plugin-medium-zoom@1.8.2_@rspress+runtime@1.8.2/node_modules/@rspress/plugin-medium-zoom/src/components/MediumZoom.tsx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/shared.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/esbuild.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-asset-manifest.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/eslint.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/category.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/runtime/master-app.mdx */
+
+/*! refractor/lang/diff.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/source-build.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/dist-path.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/icon.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/core/use-module-apps.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/preconnect.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/core/use-runtime-context.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/disable-html-folder.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/auto-actions.mdx */
+
+/*! copy-to-clipboard */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/create/use.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/minify-css.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/template-parameters.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/function.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/code-split.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/api/onForged.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/data/data-fetch.mdx */
+
+/*! react/jsx-runtime */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/security/nonce.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/filename.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c03-css.mdx */
+
+/*! virtual-routes */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/inject.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/use-local-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/commit.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c08-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/api/afterForged.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/bundle-analyze.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/framework-plugin/hook-list.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/monorepo/create-sub-project.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/css-modules.mdx */
+
+/*! ./bundle.css */
+
+/*! prismjs/components/prism-core */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/dns-prefetch.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/style-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/build-cache.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/monorepo/sub-project-interface.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/html.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/server/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c01-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/externals.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/api/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/micro-frontend/c02-development.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/charset.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/auto-actions.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/base-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/bff/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c01-start.mdx */
+
+/*! medium-zoom */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/copy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/web-server.mdx */
+
+/*! virtual-site-data */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/new/option.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/experiments/source-build.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-inline-route-manifests.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/bff/enable-handle-web.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/get-started/quick-start.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/index_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/create/config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/transform-import.mdx */
+
+/*! refractor/lang/javascript.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/contributing-guide.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/script-loading.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/structure.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/testing/renderApp.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/manage-effects.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/testing.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/hmr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/api/input.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/micro-frontend/c01-introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/https.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-filename-hash.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/css-modules.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/babel.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-asset-manifest.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/favicon.mdx */
+
+/*! refractor/lang/xml-doc.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/community/contributing-guide.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/css-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/legal-comments.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/micro-frontend/c04-communicate.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/web-server/middleware.mdx */
+
+/*! ./util/create */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/public-routes.mdx */
+
+/*! @theme */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/testing.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/add.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/dns-prefetch.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/include.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/port.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/transform-import.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/get-started/tech-stack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/manage-effects.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/runtime/state.mdx */
+
+/*! core-js/modules/esnext.iterator.constructor.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/mock.mdx */
+
+/*! ./lang/clike */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/concept/builder.mdx */
+
+/*! react/jsx-runtime */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/foundations/introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/style-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/enable-inline-scripts.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/compile-js-data-uri.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/public-routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/troubleshooting/cli.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/env-vars.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/mount-id.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/charset.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/release.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/alias.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/template-parameters.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/eslint.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/resolve-main-fields.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/host.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/entries-dir.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/eslint.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/bundle-analyze.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/css-modules.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/ssr/pre-render.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/core/create-app.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/api/lambda.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/ts-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/bff/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/src/server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/css-loader.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c08-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/commit.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-source-map.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/sdk.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/title-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/bff/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/plugins.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/redux-integration.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/core/use-runtime-context.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/runtime/state.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/bff/use-context.mdx */
+
+/*! hastscript */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/esbuild.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/get-started/upgrade.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/web-server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/assets-retry.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/inject-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/micro-frontend/c05-mixed-stack.mdx */
+
+/*! @babel/runtime/helpers/toConsumableArray */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/https.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-inline-runtime-chunk.mdx */
+
+/*! core-js/modules/esnext.iterator.map.js */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/server/ssr.mdx */
+
+/*! react */
+
+/*! @rspress/shared */
+
+/*! @rspress/runtime */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/troubleshooting/dependencies.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/server/port.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-inline-runtime-chunk.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/ts-checker.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/dev-server.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/bff/bff-proxy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/define.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/title.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/asset-prefix.mdx */
+
+/*! ./lib/util/merge */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/use-store.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/get-started/glossary.mdx */
+
+/*! ./Content */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/security/sri.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c08-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/release-pre.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/model/typescript-best-practice.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/css-extract.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/storybook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/troubleshooting/hmr.mdx */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/json */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/server/index_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/profile.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/favicon-by-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/computed-state.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/inline-assets.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/mainEntryName.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/utility/head.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/build-performance.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/release-pre.mdx */
+
+/*! is-hexadecimal */
+
+/*! ./hooks */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/low-level.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/enable-inline-scripts.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/profile.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/routes.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/model_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/alias.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/config/upload.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/env-vars.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/src/stories.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/hooks/shared.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/use.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/json-files.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/progress-bar.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/model/model_.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/bundler-chain.mdx */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/plugin/category.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/context.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-source-map.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/remove-console.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/basic-features/css-modules.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/generator/create/option.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/context.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/tutorials/first-app/c02-component.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/changesets/release-note.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/template-parameters.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/new/config.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/bff/sdk.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/modern-config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/topic-detail/micro-frontend/c02-development.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/autoprefixer.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/html/meta.mdx */
+
+/*! character-reference-invalid */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/server/test.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/using-storybook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/rspack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/core/use-module-apps.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/changelog.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/first-app/c06-model.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/security/check-syntax.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/model/use-store.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/auto-load-plugin.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/preconnect.mdx */
+
+/*! property-information/normalize */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/plugin/api/onForged.md */
+
+/*! @rspress/core/theme */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/generator/create/option.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/framework-plugin/implement.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/disable-inline-runtime-chunk.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/using-storybook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/print-file-size.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/tutorials/examples/csr-auth.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/advanced-features/build-performance.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/utility/head.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/externals.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/advanced-features/optimize-bundle.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/troubleshooting/cli.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/troubleshooting/builder.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/convert-to-rem.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/disable-ts-checker.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/filename.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/get-started/tech-stack.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/output/polyfill.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/output/polyfill.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/remove-moment-locale.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/tools/postcss.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/dev/before-start-url.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/micro-frontend/c01-introduction.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/ssr/no-ssr.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/html/app-icon.mdx */
+
+/*! react-syntax-highlighter/dist/esm/languages/prism/tsx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/disable-default-entries.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/tools/less.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/dev/port.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/community/blog/2022-0910-updates.md */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/model/typescript-best-practice.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/builder-plugins.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/runtime/intro.mdx */
+
+/*! react */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/guides/basic-features/data/data-write.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/runtime/bff/hook.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/global-vars.mdx */
+
+/*! virtual-search-hooks */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/source/disable-entry-dirs.mdx */
+
+/*! ./util/create */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/guides/topic-detail/changesets/config.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/core/bootstrap.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/apis/app/hooks/config/icon.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/source/alias-strategy.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/performance/chunk-split.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/apis/app/runtime/router/router.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/zh/configure/app/performance/prefetch.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/community/showcase.mdx */
+
+/*! /home/bytedance/actions-runner/_work/modern.js/modern.js/packages/document/main-doc/docs/en/configure/app/security/nonce.mdx */
