@@ -1,9 +1,0 @@
-/*! @site-docs/components/faq-test */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
