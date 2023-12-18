@@ -1,0 +1,9 @@
+/*! @modern-js/builder-doc/docs/zh/config/html/appIcon.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */

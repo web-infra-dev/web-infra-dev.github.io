@@ -1,0 +1,27 @@
+/*! react/jsx-runtime */
+
+/*! @modern-js/builder-doc/docs/zh/shared/rspackPrecautions.md */
+
+/*! @modern-js/builder-doc/docs/zh/shared/rspackTip.mdx */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @site-docs/components/init-rspack-app */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! ./rspack.md */
+
+/*! react/jsx-runtime */
