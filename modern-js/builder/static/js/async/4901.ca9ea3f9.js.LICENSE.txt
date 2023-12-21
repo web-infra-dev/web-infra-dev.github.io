@@ -1,0 +1,43 @@
+/*! @zh/shared/onExit.md */
+
+/*! @zh/shared/onAfterBuild.md */
+
+/*! @zh/shared/getNormalizedConfig.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @zh/shared/getHTMLPaths.md */
+
+/*! @zh/shared/onBeforeCreateCompiler.md */
+
+/*! @zh/shared/getBuilderConfig.md */
+
+/*! @zh/shared/onBeforeBuild.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @zh/shared/onDevCompileDone.md */
+
+/*! react/jsx-runtime */
+
+/*! @zh/shared/onBeforeStartDevServer.md */
+
+/*! @zh/shared/onAfterCreateCompiler.md */
+
+/*! @mdx-js/react */
+
+/*! @zh/shared/onAfterStartDevServer.md */
+
+/*! react/jsx-runtime */
+
+/*! @zh/shared/isPluginExists.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */

@@ -1,0 +1,17 @@
+/*! @mdx-js/react */
+
+/*! @en/shared/swc.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/shared/enableSwc.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @theme */
