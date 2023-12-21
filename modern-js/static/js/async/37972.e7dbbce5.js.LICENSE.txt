@@ -1,9 +1,0 @@
-/*! @modern-js/builder-doc/docs/zh/config/performance/dnsPrefetch.md */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */

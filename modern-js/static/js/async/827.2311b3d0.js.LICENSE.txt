@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! @modern-js/builder-doc/docs/zh/config/output/assetsRetry.md */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
