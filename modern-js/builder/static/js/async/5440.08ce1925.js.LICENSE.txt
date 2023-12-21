@@ -1,0 +1,183 @@
+/*! react/jsx-runtime */
+
+/*! @en/config/output/enableInlineStyles.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/legalComments.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/enableAssetManifest.md */
+
+/*! @mdx-js/react */
+
+/*! @en/config/output/assetsRetry.md */
+
+/*! @en/config/output/svgDefaultExport.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @en/config/output/convertToRem.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/charset.md */
+
+/*! @en/config/output/enableAssetFallback.md */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/disableMinimize.md */
+
+/*! @en/config/output/enableCssModuleTSDeclaration.md */
+
+/*! @en/config/output/copy.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/enableLatestDecorators.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/cssModules.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/assetPrefix.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/enableInlineScripts.md */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/disableSvgr.md */
+
+/*! @mdx-js/react */
+
+/*! @en/config/output/disableSourceMap.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/disableCssExtract.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/disableCssModuleExtension.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @en/config/output/externals.md */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/distPath.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/disableTsChecker.md */
+
+/*! @mdx-js/react */
+
+/*! @en/config/output/filename.md */
+
+/*! @en/config/output/dataUriLimit.md */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/cssModuleLocalIdentName.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/overrideBrowserslist.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/output/cleanDistPath.md */
+
+/*! @en/config/output/disableFilenameHash.md */
+
+/*! @en/config/output/polyfill.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @en/config/output/disableInlineRuntimeChunk.md */

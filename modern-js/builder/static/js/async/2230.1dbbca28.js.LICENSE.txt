@@ -1,0 +1,117 @@
+/*! @en/config/html/faviconByEntries.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @en/config/html/templateParameters.md */
+
+/*! @en/config/html/titleByEntries.md */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/html/templateParametersByEntries.md */
+
+/*! @en/config/html/disableHtmlFolder.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/html/tagsByEntries.md */
+
+/*! @en/config/html/tags.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @en/config/html/inject.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/html/template.md */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/html/appIcon.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @en/config/html/templateByEntries.md */
+
+/*! @en/config/html/metaByEntries.md */
+
+/*! @en/config/html/meta.md */
+
+/*! @en/config/html/crossorigin.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/html/favicon.md */
+
+/*! @mdx-js/react */
+
+/*! @en/config/html/title.md */
+
+/*! @en/config/html/scriptLoading.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/html/mountId.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @en/config/html/injectByEntries.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
