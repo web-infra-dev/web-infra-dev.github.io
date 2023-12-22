@@ -4,6 +4,6 @@
 
 /*! @mdx-js/react */
 
-/*! @site-docs/components/register-esbuild-plugin */
+/*! @site-docs-en/components/register-esbuild-plugin */
 
 /*! @mdx-js/react */
