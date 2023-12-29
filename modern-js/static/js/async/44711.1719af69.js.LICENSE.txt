@@ -1,4 +1,4 @@
-/*! @modern-js/builder-doc/docs/zh/config/performance/preconnect.md */
+/*! @modern-js/builder-doc/docs/en/config/performance/preconnect.md */
 
 /*! @mdx-js/react */
 
