@@ -1,28 +1,26 @@
 /*! @zh/config/performance/chunkSplit.md */
 
-/*! react/jsx-runtime */
-
 /*! @zh/config/performance/removeMomentLocale.md */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! @zh/config/performance/buildCache.md */
-
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
 /*! @mdx-js/react */
+
+/*! @zh/config/performance/buildCache.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
 
 /*! @zh/config/performance/prefetch.md */
 
 /*! @zh/config/performance/printFileSize.md */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
@@ -30,15 +28,19 @@
 
 /*! @zh/config/performance/preconnect.md */
 
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
 /*! @mdx-js/react */
 
 /*! @zh/config/performance/bundleAnalyze.md */
 
 /*! @zh/config/performance/profile.md */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
 
 /*! @zh/config/performance/removeConsole.md */
 
@@ -46,15 +48,13 @@
 
 /*! @mdx-js/react */
 
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
 /*! @zh/config/performance/transformLodash.md */
 
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
 
@@ -64,12 +64,12 @@
 
 /*! @mdx-js/react */
 
-/*! react/jsx-runtime */
-
 /*! @zh/config/performance/preload.md */
 
 /*! @mdx-js/react */
 
+/*! @mdx-js/react */
+
 /*! react/jsx-runtime */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
