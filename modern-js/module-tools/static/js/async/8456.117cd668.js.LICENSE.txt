@@ -1,4 +1,4 @@
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
@@ -6,4 +6,4 @@
 
 /*! @site-docs-en/components/register-esbuild-plugin */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
