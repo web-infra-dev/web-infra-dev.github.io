@@ -1,0 +1,35 @@
+/*! @mdx-js/react */
+
+/*! @rspress/runtime */
+
+/*! @mdx-js/react */
+
+/*! @en/shared/rspackTip.mdx */
+
+/*! ./NextSteps.module.scss */
+
+/*! react/jsx-runtime */
+
+/*! ../utils */
+
+/*! @rspress/core/runtime */
+
+/*! react/jsx-runtime */
+
+/*! @components/NextSteps */
+
+/*! react/jsx-runtime */
+
+/*! ./Step.module.scss */
+
+/*! react/jsx-runtime */
+
+/*! rspress/runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @components/Step */
+
+/*! ./rspack.md */
