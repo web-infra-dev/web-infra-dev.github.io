@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! @site-docs/components/reduck-migration */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
