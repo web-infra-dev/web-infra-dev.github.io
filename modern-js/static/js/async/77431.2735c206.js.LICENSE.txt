@@ -2,8 +2,8 @@
 
 /*! @mdx-js/react */
 
-/*! @modern-js/builder-doc/docs/zh/config/tools/webpackChain.md */
-
 /*! react/jsx-runtime */
+
+/*! @modern-js/builder-doc/docs/zh/config/tools/webpackChain.md */
 
 /*! react/jsx-runtime */
