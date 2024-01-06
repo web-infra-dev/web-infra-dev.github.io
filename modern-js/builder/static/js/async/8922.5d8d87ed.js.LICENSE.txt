@@ -1,12 +1,14 @@
 /*! @mdx-js/react */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
+/*! @mdx-js/react */
+
 /*! @zh/config/source/aliasStrategy.md */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
@@ -18,17 +20,13 @@
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
-
 /*! @zh/config/source/include.md */
 
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
 /*! @zh/config/source/transformImport.md */
-
-/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
@@ -38,9 +36,9 @@
 
 /*! @zh/config/source/define.md */
 
-/*! @mdx-js/react */
-
 /*! @zh/config/source/globalVars.md */
+
+/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
@@ -56,19 +54,21 @@
 
 /*! @mdx-js/react */
 
+/*! @mdx-js/react */
+
 /*! @zh/config/source/resolveMainFields.md */
 
 /*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
+/*! @mdx-js/react */
+
 /*! @zh/config/source/exclude.md */
 
+/*! @mdx-js/react */
+
 /*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 

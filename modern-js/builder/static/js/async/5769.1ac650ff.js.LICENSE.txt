@@ -1,7 +1,3 @@
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
-
 /*! @zh/config/output/copy.md */
 
 /*! @mdx-js/react */
@@ -12,27 +8,25 @@
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
 /*! @mdx-js/react */
 
 /*! @zh/config/output/legalComments.md */
 
 /*! react/jsx-runtime */
 
-/*! @mdx-js/react */
-
 /*! react/jsx-runtime */
 
 /*! @zh/config/output/assetsRetry.md */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
+
+/*! react/jsx-runtime */
 
 /*! @zh/config/output/svgDefaultExport.md */
+
+/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
 
@@ -42,7 +36,7 @@
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
@@ -62,6 +56,10 @@
 
 /*! react/jsx-runtime */
 
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
 /*! @zh/config/output/disableMinimize.md */
 
 /*! react/jsx-runtime */
@@ -69,8 +67,6 @@
 /*! @zh/config/output/enableCssModuleTSDeclaration.md */
 
 /*! react/jsx-runtime */
-
-/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
@@ -90,7 +86,13 @@
 
 /*! @mdx-js/react */
 
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
 /*! @zh/config/output/convertToRem.md */
+
+/*! @mdx-js/react */
 
 /*! @zh/config/output/enableInlineScripts.md */
 
@@ -98,11 +100,11 @@
 
 /*! @zh/config/output/disableSvgr.md */
 
-/*! @mdx-js/react */
-
 /*! @zh/config/output/disableSourceMap.md */
 
 /*! @mdx-js/react */
+
+/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
 
@@ -114,13 +116,13 @@
 
 /*! @zh/config/output/enableAssetFallback.md */
 
+/*! @mdx-js/react */
+
 /*! @zh/config/output/disableCssExtract.md */
 
 /*! @mdx-js/react */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! @zh/config/output/disableCssModuleExtension.md */
 
@@ -142,15 +144,11 @@
 
 /*! @zh/config/output/externals.md */
 
-/*! react/jsx-runtime */
-
 /*! @zh/config/output/disableTsChecker.md */
 
 /*! @mdx-js/react */
 
 /*! @zh/config/output/dataUriLimit.md */
-
-/*! react/jsx-runtime */
 
 /*! @zh/config/output/enableAssetManifest.md */
 
@@ -167,6 +165,8 @@
 /*! react/jsx-runtime */
 
 /*! @zh/config/output/overrideBrowserslist.md */
+
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 

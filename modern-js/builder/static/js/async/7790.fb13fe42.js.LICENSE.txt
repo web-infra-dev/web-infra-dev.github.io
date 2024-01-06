@@ -1,12 +1,14 @@
 /*! @mdx-js/react */
 
-/*! @zh/config/performance/transformLodash.md */
-
 /*! @mdx-js/react */
+
+/*! @zh/config/performance/transformLodash.md */
 
 /*! @zh/config/performance/buildCache.md */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
@@ -22,11 +24,13 @@
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
+
+/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
@@ -34,19 +38,15 @@
 
 /*! @zh/config/performance/removeMomentLocale.md */
 
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
 /*! @zh/config/performance/bundleAnalyze.md */
 
 /*! react/jsx-runtime */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! @zh/config/performance/prefetch.md */
+
+/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
 
@@ -60,7 +60,9 @@
 
 /*! @mdx-js/react */
 
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
 
 /*! @zh/config/performance/profile.md */
 
@@ -69,7 +71,5 @@
 /*! @zh/config/performance/removeConsole.md */
 
 /*! react/jsx-runtime */
-
-/*! @mdx-js/react */
 
 /*! @mdx-js/react */

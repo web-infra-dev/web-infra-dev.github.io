@@ -4,11 +4,11 @@
 
 /*! @mdx-js/react */
 
+/*! @mdx-js/react */
+
 /*! @en/config/tools/styledComponents.md */
 
 /*! react/jsx-runtime */
-
-/*! @mdx-js/react */
 
 /*! @en/config/tools/sass.md */
 
@@ -23,8 +23,6 @@
 /*! @mdx-js/react */
 
 /*! @mdx-js/react */
-
-/*! react/jsx-runtime */
 
 /*! @en/config/tools/webpack.md */
 
@@ -48,8 +46,6 @@
 
 /*! @mdx-js/react */
 
-/*! @mdx-js/react */
-
 /*! react/jsx-runtime */
 
 /*! @en/config/tools/bundlerChain.mdx */
@@ -62,9 +58,11 @@
 
 /*! react/jsx-runtime */
 
+/*! @mdx-js/react */
+
 /*! react/jsx-runtime */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! @en/config/tools/postcss.md */
 
@@ -80,7 +78,11 @@
 
 /*! react/jsx-runtime */
 
+/*! react/jsx-runtime */
+
 /*! @en/config/tools/minifyCss.md */
+
+/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
@@ -91,8 +93,6 @@
 /*! @en/config/tools/autoprefixer.md */
 
 /*! @en/config/tools/devServer.md */
-
-/*! react/jsx-runtime */
 
 /*! @en/config/tools/webpackChain.md */
 
@@ -108,9 +108,9 @@
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
-
 /*! @mdx-js/react */
+
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
