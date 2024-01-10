@@ -30,9 +30,9 @@
 
 /*! react/jsx-runtime */
 
-/*! @zh/config/source/preEntry.md */
-
 /*! @mdx-js/react */
+
+/*! @zh/config/source/preEntry.md */
 
 /*! @zh/config/source/define.md */
 
@@ -48,9 +48,9 @@
 
 /*! react/jsx-runtime */
 
-/*! @zh/config/source/resolveExtensionPrefix.md */
-
 /*! react/jsx-runtime */
+
+/*! @zh/config/source/resolveExtensionPrefix.md */
 
 /*! @mdx-js/react */
 
@@ -58,9 +58,9 @@
 
 /*! @zh/config/source/resolveMainFields.md */
 
-/*! @mdx-js/react */
-
 /*! react/jsx-runtime */
+
+/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 

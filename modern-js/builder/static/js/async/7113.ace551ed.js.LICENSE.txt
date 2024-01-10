@@ -1,8 +1,8 @@
+/*! @mdx-js/react */
+
 /*! @en/config/source/transformImport.md */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
@@ -14,13 +14,9 @@
 
 /*! @en/config/source/preEntry.md */
 
-/*! react/jsx-runtime */
-
 /*! @en/config/source/define.md */
 
 /*! @en/config/source/alias.md */
-
-/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
 
@@ -30,17 +26,25 @@
 
 /*! react/jsx-runtime */
 
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
 /*! @en/config/source/compileJsDataURI.md */
 
 /*! @en/config/source/include.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
 
 /*! @en/config/source/resolveExtensionPrefix.md */
 
 /*! @mdx-js/react */
 
-/*! @en/config/source/resolveMainFields.md */
+/*! react/jsx-runtime */
 
-/*! @mdx-js/react */
+/*! @en/config/source/resolveMainFields.md */
 
 /*! react/jsx-runtime */
 
@@ -52,24 +56,20 @@
 
 /*! react/jsx-runtime */
 
-/*! @mdx-js/react */
-
 /*! react/jsx-runtime */
 
 /*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
 
 /*! @en/config/source/moduleScopes.md */
 
-/*! @mdx-js/react */
-
 /*! react/jsx-runtime */
+
+/*! @mdx-js/react */
 
 /*! @mdx-js/react */
