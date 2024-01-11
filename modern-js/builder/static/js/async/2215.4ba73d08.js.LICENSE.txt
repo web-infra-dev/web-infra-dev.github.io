@@ -1,30 +1,30 @@
-/*! @mdx-js/react */
-
 /*! @zh/shared/bundler.md */
 
 /*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
 /*! @zh/shared/micro-frontend.md */
 
 /*! @mdx-js/react */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
 /*! @zh/shared/module-federation.md */
 
+/*! react/jsx-runtime */
+
 /*! @zh/shared/builder.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 

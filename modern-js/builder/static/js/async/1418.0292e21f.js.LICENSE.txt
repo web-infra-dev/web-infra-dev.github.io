@@ -4,7 +4,7 @@
 
 /*! @en/shared/bundler.md */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
@@ -14,19 +14,19 @@
 
 /*! @mdx-js/react */
 
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
 /*! @mdx-js/react */
 
 /*! @en/shared/module-federation.md */
+
+/*! @mdx-js/react */
 
 /*! @en/shared/builder.md */
 
 /*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
+
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
