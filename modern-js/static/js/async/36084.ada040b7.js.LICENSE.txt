@@ -1,10 +1,10 @@
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
-/*! react/jsx-runtime */
+/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
@@ -14,17 +14,21 @@
 
 /*! @modern-js/builder-doc/docs/zh/shared/rspack.md */
 
-/*! @mdx-js/react */
-
 /*! @modern-js/builder-doc/docs/zh/shared/micro-frontend.md */
+
+/*! react/jsx-runtime */
 
 /*! @modern-js/builder-doc/docs/zh/shared/module-federation.md */
 
+/*! @modern-js/builder-doc/docs/zh/shared/rsbuild.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
 /*! react/jsx-runtime */
 
 /*! @mdx-js/react */
-
-/*! react/jsx-runtime */
 
 /*! @modern-js/builder-doc/docs/zh/shared/swc.md */
 
@@ -32,8 +36,10 @@
 
 /*! @mdx-js/react */
 
+/*! @mdx-js/react */
+
 /*! react/jsx-runtime */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
