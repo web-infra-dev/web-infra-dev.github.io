@@ -1,15 +1,15 @@
-/*! @zh/config/experiments/sourceBuild.md */
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/experiments/lazyCompilation.md */
 
 /*! @mdx-js/react */
 
-/*! react/jsx-runtime */
+/*! @en/config/experiments/sourceBuild.md */
 
 /*! react/jsx-runtime */
 
 /*! @mdx-js/react */
-
-/*! @zh/config/experiments/lazyCompilation.md */
-
-/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
