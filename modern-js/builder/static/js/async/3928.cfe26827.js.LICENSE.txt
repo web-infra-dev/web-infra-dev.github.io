@@ -1,7 +1,5 @@
 /*! @mdx-js/react */
 
-/*! react/jsx-runtime */
-
 /*! @mdx-js/react */
 
 /*! @mdx-js/react */
@@ -16,11 +14,11 @@
 
 /*! @mdx-js/react */
 
+/*! @mdx-js/react */
+
 /*! @en/config/tools/less.md */
 
 /*! @en/config/tools/pug.md */
-
-/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
@@ -104,13 +102,13 @@
 
 /*! @en/config/tools/tsLoader.md */
 
-/*! @mdx-js/react */
-
 /*! react/jsx-runtime */
 
 /*! @mdx-js/react */
 
 /*! react/jsx-runtime */
+
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
@@ -119,5 +117,7 @@
 /*! @en/config/tools/htmlPlugin.md */
 
 /*! @mdx-js/react */
+
+/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */

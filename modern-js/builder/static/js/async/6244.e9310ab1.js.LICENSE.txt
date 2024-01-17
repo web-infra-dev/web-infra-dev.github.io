@@ -14,8 +14,6 @@
 
 /*! @mdx-js/react */
 
-/*! @mdx-js/react */
-
 /*! react/jsx-runtime */
 
 /*! @mdx-js/react */
@@ -34,6 +32,8 @@
 
 /*! @mdx-js/react */
 
+/*! react/jsx-runtime */
+
 /*! @zh/config/tools/babel.md */
 
 /*! @mdx-js/react */
@@ -47,6 +47,8 @@
 /*! @zh/config/tools/styledComponents.md */
 
 /*! react/jsx-runtime */
+
+/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
@@ -111,8 +113,6 @@
 /*! @mdx-js/react */
 
 /*! @mdx-js/react */
-
-/*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
 
