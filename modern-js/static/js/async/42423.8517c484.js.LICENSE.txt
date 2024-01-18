@@ -1,0 +1,33 @@
+/*! @modern-js/builder-doc/docs/zh/shared/nodeVersion.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @site-docs/components/deploy */
+
+/*! @site-docs/components/prerequisites */
+
+/*! @site-docs/components/init-app */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @site-docs/components/debug-app */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */

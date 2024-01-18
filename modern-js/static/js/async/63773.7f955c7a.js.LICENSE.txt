@@ -1,0 +1,9 @@
+/*! @mdx-js/react */
+
+/*! @site-docs/components/self-route-example */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */

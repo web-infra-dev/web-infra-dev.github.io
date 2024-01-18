@@ -1,9 +1,0 @@
-/*! @modern-js/builder-doc/docs/en/config/source/exclude.md */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */

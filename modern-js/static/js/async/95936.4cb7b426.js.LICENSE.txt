@@ -1,9 +1,0 @@
-/*! @modern-js/builder-doc/docs/en/config/experiments/sourceBuild.md */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */

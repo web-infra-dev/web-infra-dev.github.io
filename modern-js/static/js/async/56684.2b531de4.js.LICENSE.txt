@@ -1,0 +1,11 @@
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @theme */
+
+/*! react/jsx-runtime */
+
+/*! @site-docs-en/components/global-proxy-config */

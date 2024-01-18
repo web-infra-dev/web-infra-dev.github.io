@@ -1,9 +1,0 @@
-/*! @site-docs/components/self-route-example */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */

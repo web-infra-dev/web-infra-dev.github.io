@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! @site-docs-en/components/entry-mode.mdx */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */

@@ -1,9 +1,0 @@
-/*! @modern-js/builder-doc/docs/en/config/tools/rspack.md */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
