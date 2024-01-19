@@ -1,21 +1,21 @@
 /*! @mdx-js/react */
 
-/*! @mdx-js/react */
+/*! react/jsx-runtime */
 
 /*! @mdx-js/react */
-
-/*! @mdx-js/react */
-
-/*! @zh/shared/rspackTip.mdx */
 
 /*! react/jsx-runtime */
 
-/*! @zh/shared/rspackPrecautions.md */
+/*! @mdx-js/react */
+
+/*! @en/shared/rspackTip.mdx */
 
 /*! ./rspack.md */
 
-/*! react/jsx-runtime */
+/*! @en/shared/rspackPrecautions.md */
 
 /*! react/jsx-runtime */
+
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
