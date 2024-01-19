@@ -1,0 +1,9 @@
+/*! @modern-js/builder-doc/docs/en/config/tools/babel.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */

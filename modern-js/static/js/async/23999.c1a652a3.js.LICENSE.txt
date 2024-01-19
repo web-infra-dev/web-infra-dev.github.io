@@ -1,0 +1,11 @@
+/*! @mdx-js/react */
+
+/*! @theme */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @site-docs-en/components/release-note */
+
+/*! react/jsx-runtime */

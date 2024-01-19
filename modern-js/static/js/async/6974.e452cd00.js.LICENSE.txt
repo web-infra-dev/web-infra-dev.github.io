@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
-
-/*! @modern-js/builder-doc/docs/zh/config/performance/transformLodash.md */
-
-/*! react/jsx-runtime */

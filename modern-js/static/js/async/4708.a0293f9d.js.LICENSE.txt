@@ -1,9 +1,0 @@
-/*! @modern-js/builder-doc/docs/en/config/output/enableCssModuleTSDeclaration.md */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
