@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! @site-docs/components/faq-storybook */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
