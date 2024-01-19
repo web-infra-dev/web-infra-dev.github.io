@@ -1,0 +1,75 @@
+/*! @en/config/source/compileJsDataURI.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @en/config/source/transformImport.md */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/source/resolveMainFields.md */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/source/preEntry.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @en/config/source/resolveExtensionPrefix.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/source/aliasStrategy.md */
+
+/*! @en/config/source/exclude.md */
+
+/*! @en/config/source/alias.md */
+
+/*! @mdx-js/react */
+
+/*! @en/config/source/define.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/source/moduleScopes.md */
+
+/*! @en/config/source/globalVars.md */
+
+/*! @en/config/source/include.md */
