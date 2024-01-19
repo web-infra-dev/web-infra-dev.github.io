@@ -2,19 +2,19 @@
 
 /*! @mdx-js/react */
 
-/*! @mdx-js/react */
-
 /*! @zh/config/source/exclude.md */
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
-
 /*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
 /*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
 
 /*! react/jsx-runtime */
 
@@ -34,6 +34,8 @@
 
 /*! @mdx-js/react */
 
+/*! @mdx-js/react */
+
 /*! @zh/config/source/transformImport.md */
 
 /*! @mdx-js/react */
@@ -46,13 +48,7 @@
 
 /*! @zh/config/source/aliasStrategy.md */
 
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
 /*! @zh/config/source/preEntry.md */
-
-/*! @mdx-js/react */
 
 /*! @mdx-js/react */
 
@@ -68,8 +64,12 @@
 
 /*! react/jsx-runtime */
 
+/*! react/jsx-runtime */
+
 /*! @zh/config/source/compileJsDataURI.md */
 
 /*! @zh/config/source/include.md */
+
+/*! react/jsx-runtime */
 
 /*! @zh/config/source/resolveExtensionPrefix.md */
