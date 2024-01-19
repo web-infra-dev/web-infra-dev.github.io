@@ -1,4 +1,4 @@
-/*! @modern-js/builder-doc/docs/zh/config/source/include.md */
+/*! @modern-js/builder-doc/docs/en/config/source/include.md */
 
 /*! react/jsx-runtime */
 
