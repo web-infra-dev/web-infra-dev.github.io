@@ -1,9 +1,0 @@
-/*! @site-docs-en/components/release-module-doc */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */

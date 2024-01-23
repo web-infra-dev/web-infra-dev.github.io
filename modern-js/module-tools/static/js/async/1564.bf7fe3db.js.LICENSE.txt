@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! @site-docs-en/components/register-esbuild-plugin */
