@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! @modern-js/builder-doc/docs/en/config/tools/cssExtract.md */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */

@@ -1,9 +1,0 @@
-/*! @site-docs/components/enable-bff-caution */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */

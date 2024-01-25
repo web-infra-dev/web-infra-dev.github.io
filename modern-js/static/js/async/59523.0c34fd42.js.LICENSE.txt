@@ -1,0 +1,23 @@
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! rspress/theme */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @site-docs/components/default-mwa-generate */
+
+/*! @mdx-js/react */
+
+/*! @site-docs/components/enable-micro-frontend */
+
+/*! @site-docs/components/custom-router-micro-frontend */
+
+/*! react/jsx-runtime */

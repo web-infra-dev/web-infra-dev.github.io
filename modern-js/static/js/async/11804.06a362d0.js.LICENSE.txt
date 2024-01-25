@@ -1,0 +1,17 @@
+/*! @site-docs-en/components/custom-router-micro-frontend */
+
+/*! @mdx-js/react */
+
+/*! @site-docs-en/components/enable-micro-frontend */
+
+/*! react/jsx-runtime */
+
+/*! rspress/theme */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */

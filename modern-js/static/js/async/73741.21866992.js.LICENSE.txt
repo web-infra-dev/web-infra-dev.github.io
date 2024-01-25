@@ -1,0 +1,15 @@
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @site-docs-en/components/routes-practice */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @site-docs-en/components/convention-routing-motivation */
