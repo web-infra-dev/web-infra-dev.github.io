@@ -1,0 +1,21 @@
+/*! @site-docs/components/bff-proxy-principle */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @site-docs/components/bff-proxy-path-rewrite */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @site-docs/components/enable-bff-caution */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
