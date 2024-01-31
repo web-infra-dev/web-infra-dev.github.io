@@ -2,7 +2,7 @@
 
 /*! @mdx-js/react */
 
-/*! @modern-js/builder-doc/docs/zh/shared/module-federation.md */
+/*! @modern-js/builder-doc/docs/en/shared/module-federation.md */
 
 /*! react/jsx-runtime */
 
