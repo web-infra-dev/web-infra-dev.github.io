@@ -8,19 +8,17 @@
 
 /*! react/jsx-runtime */
 
-/*! ./mwa */
-
-/*! react/jsx-runtime */
-
 /*! ./index.css */
+
+/*! ./mwa */
 
 /*! @swc/helpers/_/_to_consumable_array */
 
 /*! @codesandbox/sandpack-react */
 
-/*! ./common */
-
 /*! react */
+
+/*! ./common */
 
 /*! @modern-js/sandpack-react */
 
@@ -32,12 +30,14 @@
 
 /*! core-js/modules/esnext.iterator.for-each.js */
 
-/*! @swc/helpers/_/_object_spread */
-
 /*! core-js/modules/esnext.async-iterator.for-each.js */
+
+/*! @swc/helpers/_/_object_spread */
 
 /*! ./common */
 
 /*! @mdx-js/react */
 
 /*! ./module */
+
+/*! react/jsx-runtime */
