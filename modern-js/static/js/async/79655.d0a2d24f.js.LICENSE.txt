@@ -1,0 +1,9 @@
+/*! @mdx-js/react */
+
+/*! @modern-js/builder-doc/docs/zh/config/tools/bundlerChain.mdx */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */

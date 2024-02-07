@@ -1,0 +1,9 @@
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/builder-doc/docs/en/shared/micro-frontend.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */

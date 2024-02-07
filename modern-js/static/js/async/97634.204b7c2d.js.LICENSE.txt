@@ -1,9 +1,0 @@
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
-
-/*! @modern-js/builder-doc/docs/zh/shared/module-federation.md */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */

@@ -1,0 +1,9 @@
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @site-docs-en/components/reduck-tip */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */

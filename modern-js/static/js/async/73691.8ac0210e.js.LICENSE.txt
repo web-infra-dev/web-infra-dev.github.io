@@ -1,0 +1,9 @@
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @modern-js/builder-doc/docs/zh/config/html/crossorigin.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */

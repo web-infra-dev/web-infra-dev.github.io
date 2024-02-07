@@ -1,0 +1,9 @@
+/*! @modern-js/builder-doc/docs/en/config/source/resolveExtensionPrefix.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
