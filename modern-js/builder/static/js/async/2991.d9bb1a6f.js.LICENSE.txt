@@ -1,0 +1,75 @@
+/*! @zh/config/performance/preconnect.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @zh/config/performance/bundleAnalyze.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @zh/config/performance/profile.md */
+
+/*! react/jsx-runtime */
+
+/*! @zh/config/performance/removeConsole.md */
+
+/*! @zh/config/performance/transformLodash.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @zh/config/performance/buildCache.md */
+
+/*! @zh/config/performance/dnsPrefetch.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @zh/config/performance/preload.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @zh/config/performance/chunkSplit.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @zh/config/performance/removeMomentLocale.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @zh/config/performance/prefetch.md */
+
+/*! @mdx-js/react */
+
+/*! @zh/config/performance/printFileSize.md */

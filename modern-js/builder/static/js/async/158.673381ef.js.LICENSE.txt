@@ -1,0 +1,123 @@
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/tools/sass.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/tools/tsLoader.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/tools/less.md */
+
+/*! @en/config/tools/pug.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @en/config/tools/styleLoader.md */
+
+/*! @en/config/tools/babel.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @en/config/tools/devServer.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/tools/webpackChain.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @en/config/tools/bundlerChain.mdx */
+
+/*! @en/config/tools/cssLoader.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @en/config/tools/htmlPlugin.md */
+
+/*! @en/config/tools/postcss.md */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/tools/cssExtract.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @en/config/tools/tsChecker.md */
+
+/*! @en/config/tools/minifyCss.md */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @en/config/tools/autoprefixer.md */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @en/config/tools/webpack.md */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/tools/terser.md */
+
+/*! react/jsx-runtime */
+
+/*! @en/config/tools/rspack.md */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @mdx-js/react */
+
+/*! @en/config/tools/styledComponents.md */
+
+/*! @mdx-js/react */
