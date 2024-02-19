@@ -1,0 +1,27 @@
+/*! @mdx-js/react */
+
+/*! @site-docs/components/faq-build-exception */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! @site-docs/components/faq-build-product */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! @site-docs/components/register-esbuild-plugin */
+
+/*! @site-docs/components/faq-build-other */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
+/*! react/jsx-runtime */

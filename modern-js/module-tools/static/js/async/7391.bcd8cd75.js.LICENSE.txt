@@ -1,5 +1,0 @@
-/*! @mdx-js/react */
-
-/*! @theme */
-
-/*! react/jsx-runtime */
