@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! @modern-js/builder-doc/docs/zh/config/source/moduleScopes.md */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */

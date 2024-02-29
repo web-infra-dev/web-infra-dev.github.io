@@ -1,9 +1,0 @@
-/*! @modern-js/builder-doc/docs/zh/config/html/favicon.md */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */

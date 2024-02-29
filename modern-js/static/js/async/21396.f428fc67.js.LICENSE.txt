@@ -1,9 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
-/*! @site-docs-en/components/turtorials-example-list */
-
-/*! @mdx-js/react */
-
-/*! @mdx-js/react */
