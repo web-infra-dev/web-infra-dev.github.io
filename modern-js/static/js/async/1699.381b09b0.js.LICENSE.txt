@@ -1,5 +1,0 @@
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
-
-/*! core-js/modules/es.error.cause.js */

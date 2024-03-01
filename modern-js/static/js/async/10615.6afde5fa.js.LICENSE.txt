@@ -1,7 +1,0 @@
-/*! @mdx-js/react */
-
-/*! core-js/modules/es.error.cause.js */
-
-/*! react/jsx-runtime */
-
-/*! rspress/theme */
