@@ -1,9 +1,0 @@
-/*! ../../types-36e5ec0d.mjs */
-
-/*! outvariant */
-
-/*! dequal */
-
-/*! ../../base-80a1f760.mjs */
-
-/*! dequal */
