@@ -1,1 +1,0 @@
-(self.webpackChunk_modern_js_module_tools_docs=self.webpackChunk_modern_js_module_tools_docs||[]).push([["6212"],{91953:function(o){},25936:function(o){},93445:function(o){}}]);
