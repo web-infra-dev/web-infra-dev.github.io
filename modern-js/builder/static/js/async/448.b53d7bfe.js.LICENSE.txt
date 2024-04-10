@@ -1,3 +1,11 @@
+/*! react/jsx-runtime */
+
+/*! rspress/runtime */
+
+/*! react/jsx-runtime */
+
+/*! @mdx-js/react */
+
 /*! @theme */
 
 /*! ../utils */
@@ -11,11 +19,3 @@
 /*! ./Step.module.scss */
 
 /*! @components/NextSteps */
-
-/*! react/jsx-runtime */
-
-/*! rspress/runtime */
-
-/*! react/jsx-runtime */
-
-/*! @mdx-js/react */
