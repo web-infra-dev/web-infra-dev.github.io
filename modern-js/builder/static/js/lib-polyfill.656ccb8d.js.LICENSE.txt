@@ -16,6 +16,8 @@
 
 /*! ../internals/get-method */
 
+/*! ./arrayLikeToArray.js */
+
 /*! ../internals/create-property-descriptor */
 
 /*! ./nonIterableSpread.js */
@@ -49,6 +51,8 @@
 /*! ../internals/internal-state */
 
 /*! ../internals/object-get-own-property-descriptor */
+
+/*! ./setPrototypeOf.js */
 
 /*! ../internals/has-own-property */
 
@@ -93,8 +97,6 @@
 /*! ../internals/async-iterator-iteration */
 
 /*! ../internals/is-pure */
-
-/*! ./objectWithoutPropertiesLoose.js */
 
 /*! ../internals/engine-user-agent */
 
@@ -164,6 +166,8 @@
 
 /*! ../internals/is-symbol */
 
+/*! ./arrayWithoutHoles.js */
+
 /*! ../internals/fails */
 
 /*! ../internals/to-string */
@@ -191,8 +195,6 @@
 /*! ../internals/function-uncurry-this */
 
 /*! ../internals/global */
-
-/*! ./toPropertyKey.js */
 
 /*! ../internals/own-keys */
 
@@ -364,6 +366,8 @@
 
 /*! ../internals/well-known-symbol */
 
+/*! ./arrayLikeToArray.js */
+
 /*! ../internals/length-of-array-like */
 
 /*! ../internals/an-object */
@@ -371,6 +375,8 @@
 /*! ../internals/function-bind-native */
 
 /*! ../internals/well-known-symbol */
+
+/*! ./typeof.js */
 
 /*! ../internals/is-pure */
 
@@ -396,6 +402,10 @@
 
 /*! ../internals/is-pure */
 
+/*! ./typeof.js */
+
+/*! ./toPrimitive.js */
+
 /*! ../internals/async-iterator-prototype */
 
 /*! ../internals/function-call */
@@ -409,8 +419,6 @@
 /*! ../internals/get-built-in */
 
 /*! ../internals/to-string-tag-support */
-
-/*! ./arrayWithoutHoles.js */
 
 /*! ../internals/function-call */
 
@@ -446,11 +454,9 @@
 
 /*! ../internals/array-includes */
 
-/*! ./typeof.js */
+/*! ./toPropertyKey.js */
 
 /*! ../internals/object-create */
-
-/*! ./arrayLikeToArray.js */
 
 /*! ../internals/function-uncurry-this */
 
@@ -468,8 +474,6 @@
 
 /*! ../internals/does-not-exceed-safe-integer */
 
-/*! ./arrayLikeToArray.js */
-
 /*! ../internals/object-property-is-enumerable */
 
 /*! ../internals/fails */
@@ -486,13 +490,9 @@
 
 /*! ../internals/an-object */
 
-/*! ./toPrimitive.js */
-
 /*! ../internals/is-callable */
 
 /*! ../internals/get-iterator-direct */
-
-/*! ./setPrototypeOf.js */
 
 /*! ../internals/function-call */
 
@@ -543,6 +543,8 @@
 /*! ../internals/descriptors */
 
 /*! ../internals/try-to-string */
+
+/*! ./objectWithoutPropertiesLoose.js */
 
 /*! ../internals/is-object */
 
@@ -613,8 +615,6 @@
 /*! ../internals/object-define-property */
 
 /*! ../internals/object-is-prototype-of */
-
-/*! ./typeof.js */
 
 /*! ../internals/classof */
 
