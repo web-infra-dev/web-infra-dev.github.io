@@ -14,6 +14,8 @@
 
 /*! ../internals/an-object */
 
+/*! ./unsupportedIterableToArray.js */
+
 /*! ../internals/define-global-property */
 
 /*! ../internals/global */
@@ -56,6 +58,8 @@
 
 /*! ../internals/own-keys */
 
+/*! ./_array_like_to_array.js */
+
 /*! ../internals/correct-prototype-getter */
 
 /*! ../internals/internal-state */
@@ -81,8 +85,6 @@
 /*! ../internals/export */
 
 /*! ../internals/fails */
-
-/*! ./_iterable_to_array.js */
 
 /*! ../internals/define-built-in */
 
@@ -122,11 +124,7 @@
 
 /*! ../internals/iterators */
 
-/*! ./arrayLikeToArray.js */
-
 /*! ../internals/object-create */
-
-/*! ./nonIterableSpread.js */
 
 /*! ../internals/ie8-dom-define */
 
@@ -149,6 +147,8 @@
 /*! ../internals/define-built-in */
 
 /*! ../internals/validate-arguments-length */
+
+/*! ./_unsupported_iterable_to_array.js */
 
 /*! ../internals/fails */
 
@@ -200,6 +200,8 @@
 
 /*! ../internals/a-callable */
 
+/*! ./_non_iterable_spread.js */
+
 /*! ../internals/a-callable */
 
 /*! ../internals/is-object */
@@ -234,7 +236,7 @@
 
 /*! ../internals/to-integer-or-infinity */
 
-/*! ./_array_like_to_array.js */
+/*! ./_define_property.js */
 
 /*! ../internals/object-get-prototype-of */
 
@@ -272,8 +274,6 @@
 
 /*! ../internals/classof-raw */
 
-/*! ./unsupportedIterableToArray.js */
-
 /*! ../internals/perform */
 
 /*! ../internals/copy-constructor-properties */
@@ -303,8 +303,6 @@
 /*! ../internals/to-string-tag-support */
 
 /*! ../internals/to-string */
-
-/*! ./_unsupported_iterable_to_array.js */
 
 /*! ../internals/function-call */
 
@@ -340,9 +338,13 @@
 
 /*! ../internals/array-includes */
 
+/*! ./typeof.js */
+
 /*! ../internals/object-create */
 
 /*! ../internals/function-uncurry-this */
+
+/*! ./_array_without_holes.js */
 
 /*! ../internals/get-built-in */
 
@@ -360,6 +362,8 @@
 
 /*! ../internals/descriptors */
 
+/*! ./arrayLikeToArray.js */
+
 /*! ../internals/is-callable */
 
 /*! ../internals/object-property-is-enumerable */
@@ -368,17 +372,19 @@
 
 /*! ../internals/make-built-in */
 
+/*! ./_array_like_to_array.js */
+
 /*! ../internals/is-null-or-undefined */
 
 /*! ../internals/iterate */
 
 /*! ../internals/use-symbol-as-uid */
 
-/*! ./_non_iterable_spread.js */
-
 /*! ../internals/object-is-prototype-of */
 
 /*! ../internals/an-object */
+
+/*! ./toPrimitive.js */
 
 /*! ../internals/is-callable */
 
@@ -418,8 +424,6 @@
 
 /*! ../internals/async-iterator-create-proxy */
 
-/*! ./_define_property.js */
-
 /*! ../internals/define-built-in */
 
 /*! ../internals/define-built-ins */
@@ -445,6 +449,8 @@
 /*! ../internals/is-symbol */
 
 /*! ../internals/function-uncurry-this */
+
+/*! ./iterableToArray.js */
 
 /*! ../internals/has-own-property */
 
@@ -478,23 +484,15 @@
 
 /*! ../internals/shared-store */
 
-/*! ./_array_without_holes.js */
-
 /*! ../internals/get-iterator-method */
 
 /*! ../internals/create-iter-result-object */
 
 /*! ../internals/function-uncurry-this */
 
-/*! ./arrayLikeToArray.js */
-
 /*! ../internals/iterator-create-proxy */
 
 /*! ../internals/async-iterator-map */
-
-/*! ./typeof.js */
-
-/*! ./_array_like_to_array.js */
 
 /*! ../internals/function-uncurry-this */
 
@@ -523,8 +521,6 @@
 /*! ../internals/object-define-property */
 
 /*! ../internals/object-is-prototype-of */
-
-/*! ./toPrimitive.js */
 
 /*! ../internals/classof */
 
@@ -566,6 +562,10 @@
 
 /*! ../internals/get-method */
 
+/*! ./arrayLikeToArray.js */
+
+/*! ./nonIterableSpread.js */
+
 /*! ../internals/create-property-descriptor */
 
 /*! ../internals/is-callable */
@@ -606,6 +606,8 @@
 
 /*! ../internals/fails */
 
+/*! ./_iterable_to_array.js */
+
 /*! ../internals/create-non-enumerable-property */
 
 /*! ../internals/iterators */
@@ -645,8 +647,6 @@
 /*! ../internals/iterators-core */
 
 /*! ../internals/function-call */
-
-/*! ./iterableToArray.js */
 
 /*! ../internals/hidden-keys */
 
