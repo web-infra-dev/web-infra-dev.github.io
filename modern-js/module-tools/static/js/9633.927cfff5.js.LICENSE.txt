@@ -180,8 +180,6 @@
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/module-doc/docs/en/api/config/plugins.md */
 
-/*! @babel/runtime/helpers/defineProperty */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/module-doc/docs/en/components/release-module-doc.mdx */
 
 /*! property-information/normalize */
@@ -419,6 +417,8 @@ lodash-es/lodash.js:
 
 /*! react/jsx-runtime */
 
+/*! @babel/runtime/helpers/toConsumableArray */
+
 /*! react/jsx-runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/module-doc/docs/zh/index.md */
@@ -468,8 +468,6 @@ lodash-es/lodash.js:
 /*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/module-doc/docs/zh/api/plugin-api/plugin-hooks.md */
-
-/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/module-doc/docs/en/api/config/build-config.mdx */
 
@@ -633,8 +631,6 @@ lodash-es/lodash.js:
 
 /*! refractor/lang/scss.js */
 
-/*! @babel/runtime/helpers/objectWithoutProperties */
-
 /*! react/jsx-runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/module-doc/docs/en/api/config/build-config.mdx */
@@ -727,8 +723,6 @@ lodash-es/lodash.js:
 
 /*! invariant */
 
-/*! @babel/runtime/helpers/toConsumableArray */
-
 /*! @rspress/runtime */
 
 /*! virtual-prism-languages */
@@ -773,6 +767,8 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/module-doc/docs/zh/guide/faq/storybook.mdx */
 
+/*! react */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/module-doc/docs/zh/components/publish-emo.mdx */
 
 /*! @theme-assets/wrapped */
@@ -806,6 +802,8 @@ lodash-es/lodash.js:
 /*! /home/runner/work/modern.js/modern.js/packages/document/module-doc/docs/en/guide/faq/storybook.mdx */
 
 /*! ./decode-entity */
+
+/*! @babel/runtime/helpers/defineProperty */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/module-doc/docs/zh/guide/basic/publish-your-project.mdx */
 
@@ -944,6 +942,8 @@ lodash-es/lodash.js:
 /*! prismjs/components/prism-core */
 
 /*! react */
+
+/*! @babel/runtime/helpers/objectWithoutProperties */
 
 /*! ./lang/markup */
 
