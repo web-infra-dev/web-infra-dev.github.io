@@ -16,11 +16,7 @@
 
 /*! ../internals/get-method */
 
-/*! ./arrayLikeToArray.js */
-
 /*! ../internals/create-property-descriptor */
-
-/*! ./nonIterableSpread.js */
 
 /*! ../internals/is-callable */
 
@@ -150,8 +146,6 @@
 
 /*! ../internals/global */
 
-/*! ./unsupportedIterableToArray.js */
-
 /*! ../internals/a-callable */
 
 /*! ../internals/an-object */
@@ -198,6 +192,8 @@
 
 /*! ../internals/own-keys */
 
+/*! ./typeof.js */
+
 /*! ../internals/correct-prototype-getter */
 
 /*! ../internals/internal-state */
@@ -217,6 +213,8 @@
 /*! ../internals/classof-raw */
 
 /*! ../internals/get-method */
+
+/*! ./arrayLikeToArray.js */
 
 /*! ../internals/define-built-in */
 
@@ -243,6 +241,8 @@
 /*! ../internals/iterators-core */
 
 /*! ../internals/export */
+
+/*! ./toPrimitive.js */
 
 /*! ../internals/an-object */
 
@@ -312,9 +312,9 @@
 
 /*! ../internals/is-callable */
 
-/*! ../internals/define-built-in */
+/*! ./iterableToArray.js */
 
-/*! ../internals/to-object */
+/*! ../internals/define-built-in */
 
 /*! ../internals/global */
 
@@ -322,9 +322,11 @@
 
 /*! ../internals/inspect-source */
 
-/*! ../internals/to-integer-or-infinity */
+/*! ../internals/to-object */
 
 /*! ../internals/a-callable */
+
+/*! ../internals/to-integer-or-infinity */
 
 /*! ../internals/a-callable */
 
@@ -366,8 +368,6 @@
 
 /*! ../internals/well-known-symbol */
 
-/*! ./arrayLikeToArray.js */
-
 /*! ../internals/length-of-array-like */
 
 /*! ../internals/an-object */
@@ -375,8 +375,6 @@
 /*! ../internals/function-bind-native */
 
 /*! ../internals/well-known-symbol */
-
-/*! ./typeof.js */
 
 /*! ../internals/is-pure */
 
@@ -403,8 +401,6 @@
 /*! ../internals/is-pure */
 
 /*! ./typeof.js */
-
-/*! ./toPrimitive.js */
 
 /*! ../internals/async-iterator-prototype */
 
@@ -458,7 +454,11 @@
 
 /*! ../internals/object-create */
 
+/*! ./arrayLikeToArray.js */
+
 /*! ../internals/function-uncurry-this */
+
+/*! ./nonIterableSpread.js */
 
 /*! ../internals/get-built-in */
 
@@ -554,8 +554,6 @@
 
 /*! ../internals/function-uncurry-this */
 
-/*! ./iterableToArray.js */
-
 /*! ../internals/has-own-property */
 
 /*! ../internals/get-built-in */
@@ -583,6 +581,8 @@
 /*! ../internals/is-callable */
 
 /*! ../internals/is-pure */
+
+/*! ./unsupportedIterableToArray.js */
 
 /*! ../internals/shared-store */
 
