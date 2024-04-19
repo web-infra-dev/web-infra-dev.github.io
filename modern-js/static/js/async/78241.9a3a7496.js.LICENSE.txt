@@ -1,5 +1,0 @@
-/*! rspress/theme */
-
-/*! @mdx-js/react */
-
-/*! react/jsx-runtime */
