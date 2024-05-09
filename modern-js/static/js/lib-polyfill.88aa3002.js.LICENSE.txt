@@ -22,8 +22,6 @@
 
 /*! ../internals/a-callable */
 
-/*! ./iterableToArray.js */
-
 /*! ../internals/create-non-enumerable-property */
 
 /*! ../internals/an-object */
@@ -33,8 +31,6 @@
 /*! ../internals/is-symbol */
 
 /*! ../internals/get-iterator-direct */
-
-/*! ./_unsupported_iterable_to_array.js */
 
 /*! ../internals/fails */
 
@@ -59,6 +55,8 @@
 /*! ../internals/global */
 
 /*! ../internals/own-keys */
+
+/*! ./typeof.js */
 
 /*! ../internals/correct-prototype-getter */
 
@@ -94,7 +92,7 @@
 
 /*! ../internals/an-object */
 
-/*! ./_non_iterable_spread.js */
+/*! ./_iterable_to_array.js */
 
 /*! ../internals/export */
 
@@ -109,6 +107,8 @@
 /*! ../internals/descriptors */
 
 /*! ../internals/uid */
+
+/*! ./toPrimitive.js */
 
 /*! ../internals/an-object */
 
@@ -156,6 +156,8 @@
 
 /*! ../internals/object-create */
 
+/*! ./arrayWithoutHoles.js */
+
 /*! ../internals/create-iter-result-object */
 
 /*! ../internals/function-call */
@@ -172,8 +174,6 @@
 
 /*! ../internals/descriptors */
 
-/*! ./nonIterableSpread.js */
-
 /*! ../internals/is-callable */
 
 /*! ../internals/function-uncurry-this */
@@ -186,7 +186,7 @@
 
 /*! ../internals/math-trunc */
 
-/*! ./typeof.js */
+/*! ./objectWithoutPropertiesLoose.js */
 
 /*! ../internals/define-built-in */
 
@@ -228,11 +228,13 @@
 
 /*! ../internals/an-object */
 
+/*! ./arrayLikeToArray.js */
+
 /*! ../internals/is-object */
 
 /*! ../internals/use-symbol-as-uid */
 
-/*! ./_array_without_holes.js */
+/*! ./_array_like_to_array.js */
 
 /*! ../internals/shared-key */
 
@@ -304,6 +306,8 @@
 
 /*! ../internals/to-string */
 
+/*! ./iterableToArray.js */
+
 /*! ../internals/function-call */
 
 /*! ../internals/object-define-property */
@@ -330,7 +334,7 @@
 
 /*! ../internals/iterator-close */
 
-/*! ./_define_property.js */
+/*! ./_unsupported_iterable_to_array.js */
 
 /*! ../internals/fails */
 
@@ -339,8 +343,6 @@
 /*! ../internals/iterator-close */
 
 /*! ../internals/array-includes */
-
-/*! ./unsupportedIterableToArray.js */
 
 /*! ../internals/object-create */
 
@@ -384,7 +386,7 @@
 
 /*! ../internals/get-iterator-direct */
 
-/*! ./_array_like_to_array.js */
+/*! ./_non_iterable_spread.js */
 
 /*! ../internals/function-call */
 
@@ -444,9 +446,13 @@
 
 /*! ../internals/is-symbol */
 
+/*! ./nonIterableSpread.js */
+
 /*! ../internals/function-uncurry-this */
 
 /*! ../internals/has-own-property */
+
+/*! ./typeof.js */
 
 /*! ../internals/get-built-in */
 
@@ -486,6 +492,8 @@
 
 /*! ../internals/function-uncurry-this */
 
+/*! ./_array_without_holes.js */
+
 /*! ../internals/iterator-create-proxy */
 
 /*! ../internals/async-iterator-map */
@@ -501,8 +509,6 @@
 /*! ../internals/object-keys-internal */
 
 /*! ../internals/ie8-dom-define */
-
-/*! ./typeof.js */
 
 /*! ../internals/a-callable */
 
@@ -530,8 +536,6 @@
 
 /*! ../internals/well-known-symbol */
 
-/*! ./_iterable_to_array.js */
-
 /*! ../internals/shared-store */
 
 /*! ../internals/is-callable */
@@ -539,8 +543,6 @@
 /*! ../internals/function-bind-context */
 
 /*! ../internals/global */
-
-/*! ./toPrimitive.js */
 
 /*! ../internals/fails */
 
@@ -558,19 +560,21 @@
 
 /*! ../internals/descriptors */
 
+/*! ./_define_property.js */
+
 /*! ../internals/is-object */
 
 /*! ../internals/get-method */
 
 /*! ../internals/create-property-descriptor */
 
+/*! ./unsupportedIterableToArray.js */
+
 /*! ../internals/is-callable */
 
 /*! ../internals/to-primitive */
 
 /*! ../internals/function-uncurry-this */
-
-/*! ./arrayWithoutHoles.js */
 
 /*! ../internals/get-iterator-direct */
 
@@ -595,6 +599,8 @@
 /*! ../internals/create-property */
 
 /*! ../internals/to-property-key */
+
+/*! ./_array_like_to_array.js */
 
 /*! ../internals/is-object */
 
@@ -622,21 +628,15 @@
 
 /*! ../internals/iterator-map */
 
-/*! ./objectWithoutPropertiesLoose.js */
-
 /*! ../internals/is-callable */
 
 /*! ../internals/html */
 
 /*! ../internals/try-to-string */
 
-/*! ./arrayLikeToArray.js */
-
 /*! ../internals/async-iterator-iteration */
 
 /*! ../internals/is-pure */
-
-/*! ./_array_like_to_array.js */
 
 /*! ../internals/engine-user-agent */
 
