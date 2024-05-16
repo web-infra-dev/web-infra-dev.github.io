@@ -1,4 +1,4 @@
-/*! react/jsx-runtime */
+/*! virtual-routes */
 
 /*! react-lazy-with-preload */
 
@@ -12,27 +12,37 @@
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/faq/exceptions.md */
 
+/*! @mdx-js/react */
+
+/*! react */
+
+/*! @theme-assets/jump */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/define.md */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/basic/html-template.md */
 
 /*! react-syntax-highlighter/dist/esm/languages/prism/scss */
 
+/*! @rspress/runtime */
+
+/*! react */
+
+/*! @theme-assets/menu */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/config-performance.mdx */
 
 /*! hastscript */
 
-/*! react */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/plugin-esbuild.mdx */
+
+/*! @theme-assets/file */
 
 /*! ./MediumZoom.css */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-swc.mdx */
 
 /*! toggle-selection */
-
-/*! react/jsx-runtime */
 
 /*! react-syntax-highlighter/dist/esm/languages/prism/javascript */
 
@@ -42,11 +52,15 @@
 
 /*! ./lib/util/merge */
 
+/*! lodash-es */
+
 /*! refractor/lang/less.js */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/hmr.md */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-source.mdx */
+
+/*! @theme-assets/empty */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/plugin-core.mdx */
 
@@ -64,11 +78,11 @@
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/basic/builder-cli.mdx */
 
-/*! react/jsx-runtime */
-
 /*! react-dom/client */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/list.md */
+
+/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-image-compress.mdx */
 
@@ -80,9 +94,9 @@
 
 /*! @babel/runtime/helpers/esm/objectWithoutPropertiesLoose */
 
-/*! @rspress/shared */
+/*! nprogress/nprogress.css */
 
-/*! @theme-assets/header */
+/*! @rspress/shared */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/storybook.mdx */
 
@@ -97,6 +111,8 @@
 /*! react/jsx-runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/basic/typescript.md */
+
+/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/config-html.mdx */
 
@@ -114,19 +130,17 @@
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/builder-core.mdx */
 
-/*! @rspress/runtime */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/plugin-stylus.mdx */
 
 /*! @babel/runtime/helpers/esm/objectWithoutPropertiesLoose */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/config-security.mdx */
 
-/*! @rspress/runtime */
-
 /*! core-js/modules/esnext.async-iterator.find.js */
 
-/*! @theme-assets/down */
+/*! react */
+
+/*! react */
 
 /*! react/jsx-runtime */
 
@@ -134,15 +148,13 @@
 
 /*! core-js/modules/web.url-search-params.delete.js */
 
-/*! @rspress/shared */
+/*! @rspress/runtime */
 
 /*! ./lib/html */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/browserslist.md */
 
 /*! @rspress/runtime */
-
-/*! html-tags */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/basic/css-usage.md */
 
@@ -152,45 +164,35 @@
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/basic/build-target.md */
 
-/*! react/jsx-runtime */
-
-/*! @theme-assets/translator */
-
 /*! react */
+
+/*! react/jsx-runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/define.md */
 
-/*! @babel/runtime/helpers/extends */
+/*! react/jsx-runtime */
 
-/*! lodash-es */
+/*! @rspress/runtime */
+
+/*! react */
+
+/*! @babel/runtime/helpers/extends */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/introduction.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-esbuild.mdx */
 
+/*! react */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/browserslist.md */
 
-/*! Bundled license information:
+/*! htmr */
 
-lodash-es/lodash.js:
-  (**
-   * @license
-   * Lodash (Custom Build) <https://lodash.com/>
-   * Build: `lodash modularize exports="es" -o ./`
-   * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
-   * Released under MIT license <https://lodash.com/license>
-   * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
-   * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
-   *)
-*/
+/*! react/jsx-runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/storybook.mdx */
 
-/*! virtual-search-index-hash */
-
 /*! ./checkForListedLanguage */
-
-/*! @theme-assets/loading */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-image-compress.mdx */
 
@@ -200,7 +202,7 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/debug/debug-mode.md */
 
-/*! lodash-es */
+/*! @theme-assets/success */
 
 /*! react */
 
@@ -212,13 +214,15 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/hmr.md */
 
-/*! react/jsx-runtime */
+/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/basic/html-template.md */
 
 /*! react-router-dom */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-node-polyfill.mdx */
+
+/*! body-scroll-lock */
 
 /*! virtual-site-data */
 
@@ -230,15 +234,13 @@ lodash-es/lodash.js:
 
 /*! react-router-dom */
 
-/*! @theme-assets/wrapped */
+/*! react/jsx-runtime */
 
-/*! @theme-assets/arrow-down */
+/*! @theme-assets/arrow-right */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/builder-types.mdx */
 
-/*! lodash-es */
-
-/*! @theme-assets/close */
+/*! react/jsx-runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/plugin-swc.mdx */
 
@@ -250,7 +252,11 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/index.md */
 
+/*! react */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/config-dev.mdx */
+
+/*! react/jsx-runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/plugin-stylus.mdx */
 
@@ -262,6 +268,8 @@ lodash-es/lodash.js:
 
 /*! react/jsx-runtime */
 
+/*! @theme-assets/copy */
+
 /*! xtend */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/basic/builder-cli.mdx */
@@ -270,23 +278,33 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-tools.mdx */
 
+/*! react */
+
 /*! virtual-global-components */
+
+/*! react/jsx-runtime */
+
+/*! copy-to-clipboard */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/plugin-image-compress.mdx */
 
-/*! react */
+/*! react-syntax-highlighter */
 
 /*! react */
+
+/*! nprogress */
 
 /*! ./defined-info */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/basic/typescript.md */
 
-/*! @theme */
-
 /*! ../../normalize */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-tools.mdx */
+
+/*! @theme-assets/search */
+
+/*! react/jsx-runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/builder-types.mdx */
 
@@ -298,17 +316,13 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/index.mdx */
 
-/*! react */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/basic/build-target.md */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/custom-webpack-config.md */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/builder-types.mdx */
 
-/*! react-dom */
-
-/*! @theme-assets/moon */
+/*! react/jsx-runtime */
 
 /*! character-reference-invalid */
 
@@ -317,6 +331,8 @@ lodash-es/lodash.js:
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/basic/builder-config.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/basic/typescript.md */
+
+/*! react/jsx-runtime */
 
 /*! parse-entities */
 
@@ -328,15 +344,9 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/custom-webpack-config.md */
 
-/*! @rspress/runtime */
-
-/*! react/jsx-runtime */
-
-/*! @theme-assets/github */
+/*! react */
 
 /*! space-separated-tokens */
-
-/*! @theme-assets/sun */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/rem.md */
 
@@ -348,13 +358,13 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/faq/exceptions.md */
 
-/*! @theme-assets/small-menu */
-
 /*! core-js/modules/esnext.iterator.map.js */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/basic/css-usage.md */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/introduction.mdx */
+
+/*! react */
 
 /*! refractor/lang/tsx.js */
 
@@ -367,25 +377,23 @@ lodash-es/lodash.js:
  * @public
  */
 
-/*! react */
+/*! virtual-prism-languages */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/plugin-vue.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-stylus.mdx */
 
-/*! react */
-
 /*! ./TransitionGroupContext */
-
-/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/storybook.mdx */
 
-/*! @theme-assets/title */
-
-/*! ./bundle */
-
 /*! @theme */
+
+/*! virtual-site-data */
+
+/*! react/jsx-runtime */
+
+/*! react-helmet-async */
 
 /*! core-js/modules/esnext.iterator.find.js */
 
@@ -403,10 +411,6 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/browser-compatibility.md */
 
-/*! react */
-
-/*! is-html */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/rspack-start.mdx */
 
 /*! refractor/lang/diff.js */
@@ -419,6 +423,8 @@ lodash-es/lodash.js:
 
 /*! react */
 
+/*! react/jsx-runtime */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/builder-instance.mdx */
 
 /*! refractor/lang/bash.js */
@@ -426,8 +432,6 @@ lodash-es/lodash.js:
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/debug/debug-mode.md */
 
 /*! dom-helpers/removeClass */
-
-/*! virtual-routes */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/basic/builder-cli.mdx */
 
@@ -441,19 +445,11 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/faq/features.md */
 
-/*! @mdx-js/react */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/hmr.md */
-
-/*! react */
-
-/*! @theme-assets/jump */
 
 /*! refractor/lang/typescript.js */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/basic/builder-config.mdx */
-
-/*! @rspress/runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/plugin-swc.mdx */
 
@@ -461,23 +457,21 @@ lodash-es/lodash.js:
 
 /*! refractor/lang/markdown.js */
 
-/*! react */
-
-/*! @theme-assets/menu */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/hmr.md */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/index.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/introduction.mdx */
 
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/basic/html-template.md */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-output.mdx */
 
 /*! refractor/lang/xml-doc.js */
-
-/*! @theme-assets/file */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/faq/general.md */
 
@@ -487,19 +481,27 @@ lodash-es/lodash.js:
 
 /*! react/jsx-runtime */
 
+/*! virtual-search-hooks */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-output.mdx */
 
-/*! lodash-es */
+/*! flexsearch */
+
+/*! @theme-assets/wrap */
+
+/*! ./bundle.css */
 
 /*! refractor/lang/javascript.js */
-
-/*! @theme-assets/empty */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-source.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/framework/vue2.mdx */
 
 /*! ./highlight */
+
+/*! react/jsx-runtime */
+
+/*! @theme-assets/gitlab */
 
 /*! react-syntax-highlighter/dist/esm/languages/prism/tsx */
 
@@ -509,11 +511,13 @@ lodash-es/lodash.js:
 
 /*! react */
 
-/*! react */
+/*! react-transition-group */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-dev.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/config-security.mdx */
+
+/*! react/jsx-runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/debug/debug-mode.md */
 
@@ -529,8 +533,6 @@ lodash-es/lodash.js:
 
 /*! refractor/core */
 
-/*! nprogress/nprogress.css */
-
 /*! core-js/modules/web.url-search-params.size.js */
 
 /*! refractor/lang/scss.js */
@@ -543,6 +545,8 @@ lodash-es/lodash.js:
 
 /*! @babel/runtime/helpers/esm/inheritsLoose */
 
+/*! react */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/custom-webpack-config.md */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-experiments.mdx */
@@ -551,9 +555,9 @@ lodash-es/lodash.js:
 
 /*! ./lib/util/info */
 
-/*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/glossary.mdx */
+/*! react/jsx-runtime */
 
-/*! react */
+/*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/glossary.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-swc.mdx */
 
@@ -581,6 +585,8 @@ lodash-es/lodash.js:
 
 /*! @rspress/runtime */
 
+/*! react/jsx-runtime */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/faq/general.md */
 
 /*! ./create-element */
@@ -591,17 +597,9 @@ lodash-es/lodash.js:
 
 /*! react */
 
-/*! react */
-
-/*! react/jsx-runtime */
-
-/*! react */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/plugin-core.mdx */
 
 /*! react */
-
-/*! @rspress/runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/index.md */
 
@@ -611,15 +609,13 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-performance.mdx */
 
+/*! @theme-assets/header */
+
 /*! @babel/runtime/helpers/defineProperty */
 
 /*! ./Transition */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/config-tools.mdx */
-
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
 
 /*! ./schema */
 
@@ -629,11 +625,7 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/introduction.md */
 
-/*! @rspress/runtime */
-
 /*! ./lang/css */
-
-/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/faq/hmr.md */
 
@@ -641,13 +633,7 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/quick-start.mdx */
 
-/*! react */
-
-/*! htmr */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/features.mdx */
-
-/*! react/jsx-runtime */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/index.mdx */
 
@@ -665,49 +651,55 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/framework/vue2.mdx */
 
+/*! @rspress/runtime */
+
 /*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/plugin-vue.mdx */
 
 /*! ./factory */
 
-/*! @theme-assets/success */
+/*! @rspress/runtime */
 
 /*! is-decimal */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/framework/vue3.mdx */
 
+/*! @theme-assets/down */
+
 /*! /home/runner/work/modern.js/modern.js/node_modules/.pnpm/@rspress+plugin-medium-zoom@1.18.2_@rspress+runtime@1.18.2/node_modules/@rspress/plugin-medium-zoom/src/components/MediumZoom.tsx */
+
+/*! react/jsx-runtime */
+
+/*! @rspress/shared */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/faq/features.md */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/rem.md */
 
-/*! react */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-html.mdx */
 
-/*! react */
+/*! html-tags */
 
-/*! body-scroll-lock */
+/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/browser-compatibility.md */
 
-/*! react */
-
 /*! react/jsx-runtime */
+
+/*! @theme-assets/translator */
+
+/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/builder-types.mdx */
 
-/*! @theme-assets/arrow-right */
-
 /*! ./lib/xlink */
-
-/*! react/jsx-runtime */
 
 /*! virtual-routes */
 
 /*! react-syntax-highlighter/dist/esm/languages/prism/yaml */
+
+/*! lodash-es */
 
 /*! react */
 
@@ -715,37 +707,43 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/faq/hmr.md */
 
-/*! react */
-
-/*! react/jsx-runtime */
-
 /*! /home/runner/work/modern.js/modern.js/node_modules/.pnpm/@rspress+plugin-container-syntax@1.18.2/node_modules/@rspress/plugin-container-syntax/container.css */
 
 /*! ./util/create */
 
 /*! virtual-site-data */
 
-/*! @theme-assets/copy */
+/*! Bundled license information:
+
+lodash-es/lodash.js:
+  (**
+   * @license
+   * Lodash (Custom Build) <https://lodash.com/>
+   * Build: `lodash modularize exports="es" -o ./`
+   * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+   * Released under MIT license <https://lodash.com/license>
+   * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+   * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+   *)
+*/
 
 /*! hast-util-parse-selector */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/config-tools.mdx */
 
+/*! virtual-search-index-hash */
+
 /*! react */
+
+/*! @theme-assets/loading */
 
 /*! @theme */
-
-/*! react */
 
 /*! character-entities-legacy */
 
 /*! ./utils/reflow */
 
-/*! react/jsx-runtime */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/faq/hmr.md */
-
-/*! copy-to-clipboard */
 
 /*! ./lib/xml */
 
@@ -755,17 +753,13 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/custom-webpack-config.md */
 
-/*! react-syntax-highlighter */
-
-/*! react */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/quick-start.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/faq/general.md */
 
-/*! nprogress */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-vue.mdx */
+
+/*! lodash-es */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/optimization/split-chunk.md */
 
@@ -774,8 +768,6 @@ lodash-es/lodash.js:
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/rspack-start.mdx */
 
 /*! react/jsx-runtime */
-
-/*! @theme-assets/search */
 
 /*! react/jsx-runtime */
 
@@ -787,25 +779,27 @@ lodash-es/lodash.js:
 
 /*! react-syntax-highlighter/dist/esm/languages/prism/diff */
 
+/*! @theme-assets/wrapped */
+
+/*! @theme-assets/arrow-down */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-dev.mdx */
 
 /*! ./config */
 
 /*! react */
 
+/*! lodash-es */
+
 /*! ./lib/aria */
 
-/*! react/jsx-runtime */
+/*! @theme-assets/close */
 
 /*! @babel/runtime/helpers/defineProperty */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-node-polyfill.mdx */
 
-/*! react/jsx-runtime */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/basic/css-usage.md */
-
-/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/plugin-hooks.mdx */
 
@@ -819,7 +813,9 @@ lodash-es/lodash.js:
 
 /*! react */
 
-/*! virtual-prism-languages */
+/*! react */
+
+/*! @theme */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/plugin-hooks.mdx */
 
@@ -833,13 +829,9 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/builder-core.mdx */
 
-/*! react/jsx-runtime */
-
-/*! virtual-site-data */
-
-/*! react-helmet-async */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/faq/features.md */
+
+/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/optimization/split-chunk.md */
 
@@ -848,6 +840,10 @@ lodash-es/lodash.js:
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/plugin-vue2.mdx */
 
 /*! ./util/case-insensitive-transform */
+
+/*! react-dom */
+
+/*! @theme-assets/moon */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/optimization/split-chunk.md */
 
@@ -859,7 +855,15 @@ lodash-es/lodash.js:
 
 /*! @babel/runtime/helpers/esm/extends */
 
+/*! @rspress/runtime */
+
 /*! react */
+
+/*! react/jsx-runtime */
+
+/*! @theme-assets/github */
+
+/*! @theme-assets/sun */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/plugin-esbuild.mdx */
 
@@ -869,15 +873,13 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/plugins/introduction.md */
 
-/*! react */
-
 /*! react-syntax-highlighter/dist/esm/languages/prism/typescript */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/framework/vue2.mdx */
 
-/*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-stylus.mdx */
+/*! @theme-assets/small-menu */
 
-/*! react/jsx-runtime */
+/*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-stylus.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/rem.md */
 
@@ -891,6 +893,8 @@ lodash-es/lodash.js:
 
 /*! react-helmet-async */
 
+/*! react */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/basic/html-template.md */
 
 /*! react-dom */
@@ -903,6 +907,8 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/api/config-html.mdx */
 
+/*! react */
+
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/quick-start.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/advanced/rem.md */
@@ -910,6 +916,12 @@ lodash-es/lodash.js:
 /*! virtual-site-data */
 
 /*! @rspress/runtime */
+
+/*! react */
+
+/*! @theme-assets/title */
+
+/*! ./bundle */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/plugins/plugin-vue2.mdx */
 
@@ -925,23 +937,15 @@ lodash-es/lodash.js:
 
 /*! react-syntax-highlighter/dist/esm/languages/prism/less */
 
-/*! react/jsx-runtime */
-
-/*! react/jsx-runtime */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/basic/builder-cli.mdx */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/glossary.mdx */
 
-/*! virtual-search-hooks */
-
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/guide/advanced/rspack-start.mdx */
 
-/*! flexsearch */
+/*! react */
 
-/*! @theme-assets/wrap */
-
-/*! ./bundle.css */
+/*! is-html */
 
 /*! react-fast-compare */
 
@@ -951,14 +955,10 @@ lodash-es/lodash.js:
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/zh/guide/faq/exceptions.md */
 
-/*! react/jsx-runtime */
-
-/*! @theme-assets/gitlab */
+/*! react */
 
 /*! /home/runner/work/modern.js/modern.js/packages/document/builder-doc/docs/en/api/config-html.mdx */
 
 /*! ./lang/clike */
-
-/*! react-transition-group */
 
 /*! core-js/modules/esnext.iterator.constructor.js */
