@@ -8,8 +8,8 @@
 
 /*! clsx */
 
-/*! ./index.module.scss */
-
 /*! @mdx-js/react */
+
+/*! ./index.module.scss */
 
 /*! react/jsx-runtime */
