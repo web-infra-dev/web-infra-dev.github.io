@@ -1,10 +1,12 @@
-/*! @mdx-js/react */
+/*! @swc/helpers/_/_object_spread */
+
+/*! react/jsx-runtime */
 
 /*! ./index.css */
 
-/*! ./mwa */
+/*! @site/src/components/Sandpack */
 
-/*! ./common */
+/*! ./mwa */
 
 /*! react */
 
@@ -18,7 +20,7 @@
 
 /*! ./templates */
 
-/*! @swc/helpers/_/_object_spread */
+/*! @mdx-js/react */
 
 /*! @swc/helpers/_/_object_spread */
 
@@ -26,13 +28,11 @@
 
 /*! react/jsx-runtime */
 
-/*! react/jsx-runtime */
+/*! ./common */
 
 /*! core-js/modules/esnext.iterator.for-each.js */
 
 /*! ./module */
-
-/*! @site/src/components/Sandpack */
 
 /*! core-js/modules/esnext.async-iterator.for-each.js */
 
