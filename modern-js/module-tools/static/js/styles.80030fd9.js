@@ -1,1 +1,0 @@
-(self.webpackChunk_modern_js_module_tools_docs=self.webpackChunk_modern_js_module_tools_docs||[]).push([["6212"],{817:function(s,o,t){"use strict";t.r(s.exports={})},8097:function(s,o,t){"use strict";t.r(s.exports={})},3201:function(s,o,t){"use strict";t.r(s.exports={})},1642:function(s,o,t){"use strict";t.r(s.exports={})}}]);
